@@ -1,0 +1,307 @@
+/*
+ Theme Name:   Bootstrap Child
+ Theme URI:    https://diviextended.com/
+ Description:  A child theme of wp-bootstrap-starter WordPress theme.
+ Author:       Elicus Technologies
+ Author URI:   https://elicus.com
+ Template:     wp-bootstrap-starter
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+/* 
+red: #e00708;
+blue: #08b2f1;
+gray dark: #7d7d7d;
+gray light: #bcbcbc;
+light blue: #dfecf7;
+navy blue: #021c33;
+
+
+*/
+
+@import url("../wp-bootstrap-starter/style.css");
+
+#content.site-content {
+	padding-bottom: 0;
+}
+
+body {
+	background-image: url('http://localhost/cyberfox/wp-content/uploads/2020/08/cropped-shutterstock_1588815172-scaled-4.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 600px;
+}
+
+#menu-primary-menu .nav-link {
+	font-size: 12px !important;
+	text-transform: uppercase;
+}
+
+#menu-primary-menu .nav-link:hover {
+	font-weight: normal !important;
+}
+
+.slick-slider {
+	height: 510px;
+	padding-top: 80px;
+}
+
+.slick-slider h2, p {
+	color: #fff;
+	max-width: 380px;
+}
+
+.wpsisac-slide-wrap .wpsisac-readmore a.wpsisac-slider-readmore {
+	background-color: #e00708;
+	border: none;
+	padding: 5px 30px;
+}
+
+.section {
+	padding: 40px 0;
+}
+
+a {
+	font-size: 12px;
+}
+
+a.link {
+	color: #08b2f1;
+	font-size: inherit;
+}
+
+.btn-primary {
+	background-color: #08b2f1;
+    padding: 7px 30px;
+    border-radius: 0;
+    font-size: 12px;
+    border: none;
+}
+
+.entry-header {
+	display: none;
+}
+
+header#masthead {
+	background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    z-index: 1;
+}
+
+#page-sub-header {
+	height: 600px;
+	padding-top: 150px;
+}
+
+#page-sub-header * {
+	color: #fff !important;
+}
+
+.customers,
+.testimonial,
+.on-site-courses {
+	padding: 20px 0;
+	position: relative;
+}
+
+.customers:before,
+.testimonial:before,
+.on-site-courses:before {
+	content: '';
+    position: absolute;
+    top: 0;
+    left: -999px;
+    right: -999px;
+    bottom: 0;
+    background-color: #dfecf7;
+    z-index: -1;
+}
+
+.customers {
+	padding-bottom: 50px;
+}
+
+.customers h2{
+	margin-top: 0
+}
+
+.customers img {
+	width: 150px;
+	margin: 0 10px;
+}
+
+.on-site-courses h2 {
+	text-align: center;
+}
+
+.on-site-courses .card-title {
+	color: #e00708;
+	margin-top: 0;
+}
+
+.card {
+	border: none;
+}
+
+.card p {
+	font-size: 12px;
+	color: #7d7d7d;
+}
+
+.latest-wallpaper .card {
+	border: none;
+}
+
+.latest-wallpaper .card .card-body {
+	padding: 0;
+}
+
+.latest-wallpaper .card a {
+	font-size: 14px;
+	display: block;
+	font-weight: bold;
+}
+
+.card a:not(.read-more){
+	text-decoration: underline;
+}
+
+.card-inline {
+	flex-direction: row;
+	border: none;
+	margin-bottom: 10px;
+}
+
+.card-inline img {
+	height: 80px;
+	margin-right: 20px;
+}
+
+.card-inline small {
+	color: #08b2f1;
+}
+
+.card-inline a {
+	display: block;
+    margin-bottom: 10px;
+    color: #000;
+}
+
+.card-inline a.read-more {
+	text-transform: uppercase;
+}
+
+.card-inline .card-body {
+	padding: 0 0 10px;
+	border-bottom: 1px solid #e3e3e3;
+}
+
+.card-inline:last-child .card-body {
+	border: none;
+}
+
+.subscription-section {
+	max-width: 600px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.subscription-section p {
+	color: #7d7d7d;
+	font-size: 14px;
+}
+
+.testimonial {
+	padding: 50px 0;
+}
+
+
+.blockquote {
+	padding: 40px 40px 40px 100px;
+    background: #fff;
+    border-radius: 50px 0;
+}
+
+.blockquote p {
+	font-size: 12px;
+	color: #7d7d7d;
+}
+
+.blockquote .fa-quote-left {
+	font-size: 46px;
+	color: #bcbcbc;
+	position: absolute;
+	left: 40px;
+	top: 40px;
+}
+
+.blockquote .author-name {
+	font-size: 14px;
+	color: #000;
+}
+
+.blockquote .author-designation {
+	color: #08b2f1;
+}
+
+.blockquote img {
+    position: absolute;
+    left: 35px;
+    width: 70px;
+}
+
+#footer-widget {
+	padding: 50px 0;
+	background-color: #021c33;
+}
+
+.site-footer {
+	background-color: #021c33 !important;
+	text-align: center;
+}
+
+#footer-widget img {
+	width: 150px;
+}
+
+#footer-widget p {
+	color: #fff;
+}
+
+#menu-social-menu {
+	display: block;
+}
+#menu-social-menu li {
+	display: inline-block;
+}
+
+h3.widget-title {
+	font-size: 12px;
+	text-transform: uppercase;
+	color: #08b2f1;
+	margin-top: 0;
+}
+
+.nav-link {
+	color: #7d7d7d;
+}
+
+.menu-item i._before {
+	margin-right: 10px;
+	color: #08b2f1
+}
+
+#footer-widget .nav-link {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+#footer-widget .nav > li > a:focus,
+#footer-widget .nav > li > a:hover {
+	background-color: transparent;
+}

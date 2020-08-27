@@ -1,0 +1,3110 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-01 22:43:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: inc/sitemap-xsl.php:92
+msgid "You can find more information about XML sitemaps at <a href=\"https://www.sitemaps.org/\" target=\"_blank\" rel=\"noreferrer noopener\">sitemaps.org</a>"
+msgstr "Anda dapat menemukan informasi lebih lanjut mengenai sitemap XML di <a href=\"https://www.sitemaps.org/\" target=\"_blank\" rel=\"noreferrer noopener\">sitemaps.org</a>"
+
+#: inc/commonstrings.php:91
+msgid "Display Menu In Toolbar:"
+msgstr "Tampilkan Menu di Toolbar:"
+
+#: admin/class-aioseop-helper.php:1059
+msgid "You may choose to export settings from active modules, and content from post data."
+msgstr "Anda dapat memilih untuk mengekspor pengaturan dari modul aktif, dan konten dari data pos."
+
+#: admin/class-aioseop-helper.php:906
+msgid "Select which Post Types you want to set Open Graph meta values for."
+msgstr "Pilih untuk Jenis Pos mana yang Anda ingin atur nilai meta Open Graphnya. "
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/class-aioseop-helper.php:1061
+msgid "Select which Post Types you want to export your %s meta data for."
+msgstr "Pilih untuk Jenis Pos yang mana Anda ingin ekspor meta datanya %s. "
+
+#. translators: %1$s and 12$s are placeholders, which means these should not be
+#. translated. These will be replaced with the name of the plugin, All in One
+#. SEO Pack.
+#: admin/class-aioseop-helper.php:1058
+msgid "Choose a valid %1$s .ini file and click &quot;Import&quot; to import options from a previous state or install of %2$s."
+msgstr "Pilih berkas .ini %1$s yang valid dan klik &quot;Import&quot; untuk mengimpor pilihan dari kondisi atau instalasi dari %2$s yang sebelumnya."
+
+#: admin/class-aioseop-helper.php:774 admin/class-aioseop-helper.php:781
+msgid "Posts"
+msgstr "Pos"
+
+#: admin/class-aioseop-helper.php:764
+msgid "Exclude any category, tag or custom taxonomy from the XML sitemap. Start typing the name of a category, tag or taxonomy term in the field and a dropdown will populate with the matching terms for you to select from.<br/><br/>This will also exclude any content belonging to the specified term.  For example, if you exclude the \"Uncategorized\" category then all posts in that category will also be excluded from the sitemap."
+msgstr "Kecualikan kategori, tag atau taksonomi kustom apapun dari sitemap XML. Ketik nama dari kategori, tag atau istilah taksonomi di field dan sebuah tarik-turun akan menampilkan istilah-istilah yang cocok untuk Anda pilih.<br/><br/>Ini juga akan mengecualikan konten apapun yang termasuk ke dalam istilah yang ditentukan. Misalnya, apabila Anda mengecualikan kategori \"Uncategorized\" maka semua pos di dalam kategori tersebut akan dikecualikan dari sitemap. "
+
+#. translators: %2$s and %3$s are placeholders and should not be translated.
+#. These are replaced with the name of the taxonomy (%2$s) that is associated
+#. with (the name of) a custom post type (%2$s).
+#: admin/class-aioseop-helper.php:543
+msgid "The title of the %2$s taxonomy that is associated to this %3$s"
+msgstr "Judul taksonomi %2$s yang berhubungan dengan %3$s ini"
+
+#: admin/class-aioseop-helper.php:760
+msgid "URL to the page. This field only accepts absolute URLs with the protocol specified."
+msgstr "URL ke halaman. Field ini hanya menerima URL absolut dengan protokol yang ditentukan. "
+
+#: admin/class-aioseop-helper.php:769
+msgid "Generate an RSS sitemap in addition to the regular XML Sitemap."
+msgstr "Buat sitemap RSS sebagai tambahan dari sitemap XML biasa. "
+
+#: admin/class-aioseop-helper.php:383
+msgid "The page number"
+msgstr "Nomor halaman"
+
+#: admin/class-aioseop-helper.php:376
+msgid "Additional 404 title input"
+msgstr "Masukan judul 404 tambahan"
+
+#. translators: "Post/Page" are the two main content types in WordPress.
+#: admin/class-aioseop-helper.php:354 admin/class-aioseop-helper.php:357
+#: admin/class-aioseop-helper.php:359
+msgid "Post/Page"
+msgstr "Pos/Halaman"
+
+#: admin/class-aioseop-helper.php:340
+msgid "The original WordPress title"
+msgstr "Judul WordPress asli"
+
+#: admin/class-aioseop-helper.php:372
+msgid "The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "Alamat URL asli, seperti \"/url-yang-tidak-ada/\""
+
+#: admin/class-aioseop-helper.php:364
+msgid "This controls the format of the title tag for the 404 page."
+msgstr "Ini mengatur format tag judul untuk halaman 404."
+
+#: admin/class-aioseop-helper.php:397
+msgid "Enter your verification code here to verify your site with Pinterest."
+msgstr "Masukkan kode verifikasi Anda untuk memverifikasi situs Anda dengan Pinterest."
+
+#: admin/class-aioseop-helper.php:399
+msgid "Enter your verification code here to verify your site with Baidu Webmaster Tools."
+msgstr "Masukkan kode verifikasi Anda untuk memverifikasi situs Anda dengan Baidu Webmaster Tools."
+
+#: admin/class-aioseop-helper.php:398
+msgid "Enter your verification code here to verify your site with Yandex Webmaster Tools."
+msgstr "Masukkan kode verifikasi Anda untuk memverifikasi situs Anda dengan Yandex Webmaster Tools."
+
+#: admin/class-aioseop-helper.php:396
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools."
+msgstr "Masukkan kode verifikasi Anda untuk memverifikasi situs Anda dengan Bing Webmaster Tools."
+
+#: admin/class-aioseop-helper.php:395
+msgid "Enter your verification code here to verify your site with Google Search Console."
+msgstr "Masukkan kode verifikasi Anda untuk memverifikasi situs Anda dengan Google Search Console."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/class-aioseop-helper.php:389
+msgid "Use these checkboxes to select which Content Types you want to use %s with."
+msgstr "Gunakan kotak ini untuk memlih Jenis Konten mana yang ingin Anda gunakan dengan %s."
+
+#: admin/class-aioseop-helper.php:374
+msgid "The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "Alamat URL dalam bentuk yang dapat dibaca manusia, seperti \"URL Yang Tidak Ada\""
+
+#: admin/class-aioseop-helper.php:336
+msgid "This outputs the description you write for each page/post or the autogenerated description, if enabled. Auto-generated descriptions are generated from the excerpt or the first 160 characters of the content if there is no excerpt."
+msgstr "Ini mengeluarkan deskripsi yang Anda tulis untuk setiap halaman/pos atau deskripsi yang dihasilkan secara otomatis, apabila diaktifkan. Deskripsi yang dihasilkan secara otomatis diambil dari kutipan atau 160 karakter pertama dari konten apabila tidak ada kutipan. "
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/aioseop-welcome.php:36
+msgid "Welcome to %s"
+msgstr "Selamat datang di %s"
+
+#. translators: %1$s and %2$s are placeholders, which means that these should
+#. not be translated. These will be replaced with the name of the plugin, All
+#. in One SEO Pack, and the current version number.
+#: admin/display/aioseop-welcome.php:120
+msgid "Welcome to %1$s %2$s"
+msgstr "Selamat datang di %1$s %2$s"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/welcome-content.php:20
+msgid "Support %s"
+msgstr "Dukung %s"
+
+#: admin/class-aioseop-helper.php:315
+msgid "Tag"
+msgstr "Tag"
+
+#. translators: "Archive" is used in the context of a WordPress archive page.
+#: admin/class-aioseop-helper.php:275
+msgid "Archive"
+msgstr "Arsip"
+
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: admin/class-aioseop-helper.php:252 admin/class-aioseop-helper.php:255
+msgid "Category"
+msgstr "Kategori"
+
+#. translators: %s is replaced with a time related term such as Date, Year,
+#. Month, etc.
+#: admin/class-aioseop-helper.php:162 admin/class-aioseop-helper.php:165
+#: admin/class-aioseop-helper.php:193 admin/class-aioseop-helper.php:195
+#: admin/class-aioseop-helper.php:201 admin/class-aioseop-helper.php:231
+#: admin/class-aioseop-helper.php:233 admin/class-aioseop-helper.php:239
+#: admin/class-aioseop-helper.php:259 admin/class-aioseop-helper.php:261
+#: admin/class-aioseop-helper.php:346 admin/class-aioseop-helper.php:348
+#: admin/class-aioseop-helper.php:359 admin/class-aioseop-helper.php:566
+#: admin/class-aioseop-helper.php:568 admin/class-aioseop-helper.php:574
+#: admin/class-aioseop-helper.php:1143 admin/class-aioseop-helper.php:1191
+msgid "month"
+msgstr "bulan"
+
+#: admin/class-aioseop-helper.php:178 admin/class-aioseop-helper.php:180
+#: admin/class-aioseop-helper.php:182 admin/class-aioseop-helper.php:184
+#: admin/class-aioseop-helper.php:186 admin/class-aioseop-helper.php:197
+#: admin/class-aioseop-helper.php:199 admin/class-aioseop-helper.php:201
+msgid "Page"
+msgstr "Halaman"
+
+#: admin/class-aioseop-helper.php:167 admin/class-aioseop-helper.php:203
+#: admin/class-aioseop-helper.php:241 admin/class-aioseop-helper.php:361
+msgid "The name of a custom field"
+msgstr "Nama Field kustom"
+
+#. translators: %s is replaced with a time related term such as Date, Year,
+#. Month, etc.
+#: admin/class-aioseop-helper.php:160 admin/class-aioseop-helper.php:191
+#: admin/class-aioseop-helper.php:199 admin/class-aioseop-helper.php:229
+#: admin/class-aioseop-helper.php:237 admin/class-aioseop-helper.php:257
+#: admin/class-aioseop-helper.php:344 admin/class-aioseop-helper.php:357
+#: admin/class-aioseop-helper.php:564 admin/class-aioseop-helper.php:572
+#: admin/class-aioseop-helper.php:1137 admin/class-aioseop-helper.php:1185
+msgid "year"
+msgstr "tahun"
+
+#. translators: %s is replaced with a time related term such as Date, Year,
+#. Month, etc.
+#: admin/class-aioseop-helper.php:157 admin/class-aioseop-helper.php:189
+#: admin/class-aioseop-helper.php:197 admin/class-aioseop-helper.php:227
+#: admin/class-aioseop-helper.php:235 admin/class-aioseop-helper.php:342
+#: admin/class-aioseop-helper.php:352 admin/class-aioseop-helper.php:562
+#: admin/class-aioseop-helper.php:570 admin/class-aioseop-helper.php:1131
+#: admin/class-aioseop-helper.php:1179
+msgid "date"
+msgstr "tanggal"
+
+#: admin/class-aioseop-helper.php:154 admin/class-aioseop-helper.php:186
+#: admin/class-aioseop-helper.php:225 admin/class-aioseop-helper.php:560
+msgid "last name"
+msgstr "nama belakang"
+
+#: admin/class-aioseop-helper.php:152 admin/class-aioseop-helper.php:184
+#: admin/class-aioseop-helper.php:223 admin/class-aioseop-helper.php:558
+msgid "first name"
+msgstr "nama depan"
+
+#. translators: Example sentence: "The first name of the author of the Post"
+#: admin/class-aioseop-helper.php:143 admin/class-aioseop-helper.php:180
+#: admin/class-aioseop-helper.php:219 admin/class-aioseop-helper.php:554
+msgid "username"
+msgstr "nama pengguna"
+
+#: admin/display/notices/blog-visibility-notice.php:33
+msgid "Update Reading Settings"
+msgstr "Perbarui Pengaturan Membaca"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/welcome-content.php:64
+msgid "Beginners Guide for %s"
+msgstr "Panduan Pemula untuk %s"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/welcome-content.php:44
+msgid "Help translate %s into your language."
+msgstr "Bantu terjemahkan %s ke dalam bahasa Anda."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/general-metaboxes.php:141
+msgid "Read the %s user guide"
+msgstr "Baca Panduan Pengguna %s"
+
+#: admin/class-aioseop-helper.php:315
+msgid "The name of the %s"
+msgstr "Nama %s"
+
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: admin/class-aioseop-helper.php:217
+msgid "The (main) Category of the %s"
+msgstr "Kategori (utama) %s"
+
+#. translators: %s is replaced with a time related term such as Date, Year,
+#. Month, etc.
+#: admin/class-aioseop-helper.php:160 admin/class-aioseop-helper.php:162
+#: admin/class-aioseop-helper.php:191 admin/class-aioseop-helper.php:193
+#: admin/class-aioseop-helper.php:229 admin/class-aioseop-helper.php:231
+#: admin/class-aioseop-helper.php:257 admin/class-aioseop-helper.php:259
+#: admin/class-aioseop-helper.php:344 admin/class-aioseop-helper.php:346
+#: admin/class-aioseop-helper.php:564 admin/class-aioseop-helper.php:566
+msgid "The current %s"
+msgstr "%s saat ini"
+
+#: admin/class-aioseop-helper.php:279
+msgid "This controls the format of the title tag for Date Archives."
+msgstr "Ini mengatur format tag judul untuk Arsip Tanggal."
+
+#: admin/class-aioseop-helper.php:264
+msgid "This controls the format of the title tag for Custom Post Archives."
+msgstr "Ini mengatur format tag judul untuk Arsip Pos Kustom."
+
+#: admin/class-aioseop-helper.php:244
+msgid "This controls the format of the title tag for Category Archives."
+msgstr "Ini mengatur format tag judul untuk Arsip Kategori."
+
+#: admin/class-aioseop-helper.php:206
+msgid "This controls the format of the title tag for Posts."
+msgstr "Ini mengatur format tag judul untuk Pos."
+
+#: admin/class-aioseop-helper.php:170
+msgid "This controls the format of the title tag for Pages."
+msgstr "Ini mengatur format tag judul untuk Halaman."
+
+#: admin/class-aioseop-helper.php:318
+msgid "This controls the format of the title tag for the Search page."
+msgstr "Ini mengatur format tag judul untuk halaman Pencarian."
+
+#: admin/class-aioseop-helper.php:326
+msgid "The search term that was entered"
+msgstr "Istilah pencarian yang telah dimasukkan"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the premium version of the
+#. plugin, All in One SEO Pack Pro.
+#: admin/display/welcome-content.php:32
+msgid "Upgrade to %s to access priority support and premium features."
+msgstr "Upgrade ke %s untuk mengakses bantuan prioritas dan fitur permum."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/display/welcome-content.php:26
+msgid "There are many ways you can help support %s."
+msgstr "Ada banyak cara Anda dapat mendukung %s."
+
+#: admin/class-aioseop-helper.php:307
+msgid "This controls the format of the title tag for Tag Archives."
+msgstr "Ini mengatur format tag judul untuk Arsip Tag."
+
+#: admin/class-aioseop-helper.php:304
+msgid "The original archive title, e.g. \"Steve\" or \"John Smith\""
+msgstr "Judul arsip asli, misalnya \"Steve\" atau \"John Smith\""
+
+#: admin/class-aioseop-helper.php:296
+msgid "This controls the format of the title tag for Author Archives."
+msgstr "Ini mengatur format tag judul untuk Arsip Penulis."
+
+#: admin/class-aioseop-helper.php:293
+msgid "The original archive year, e.g. \"2019\""
+msgstr "Tahun arsip asli, misalnya \"2019\""
+
+#: admin/class-aioseop-helper.php:131
+msgid "This controls the format of the title tag for your Homepage."
+msgstr "Ini mengatur format tag judul untuk beranda Anda."
+
+#: admin/class-aioseop-helper.php:287
+msgid "The original archive title (localized), e.g. \"2019\" or \"2019 August\""
+msgstr "Judul arsip asli (terlokalkan), misalnya \"2019\" atau \"2019 Agustus\""
+
+#. translators: %s is replaced with a time related term such as Date, Year,
+#. Month, etc.
+#: admin/class-aioseop-helper.php:157 admin/class-aioseop-helper.php:165
+#: admin/class-aioseop-helper.php:189 admin/class-aioseop-helper.php:195
+#: admin/class-aioseop-helper.php:227 admin/class-aioseop-helper.php:233
+#: admin/class-aioseop-helper.php:261 admin/class-aioseop-helper.php:342
+#: admin/class-aioseop-helper.php:348 admin/class-aioseop-helper.php:562
+#: admin/class-aioseop-helper.php:568
+msgid "The current %s (localized)"
+msgstr "%s saat ini (terlokalkan)"
+
+#: admin/class-aioseop-notices.php:1142 admin/class-aioseop-notices.php:1200
+msgid "User doesn't have `aiosp_manage_seo` capabilities."
+msgstr "Pengguna tidak memiliki kemampuan `aiosp_manage_seo`"
+
+#: admin/class-aioseop-helper.php:291
+msgid "The original archive month (localized), e.g. \"August\""
+msgstr "Bulan arsip asli (terlokalkan), misalnya \"Agustus\""
+
+#: admin/display/dashboard_widget.php:93
+msgid "{Temporarily unable to load feed.}"
+msgstr "{Sementara tidak bisa memuat feed.}"
+
+#: admin/class-aioseop-helper.php:197 admin/class-aioseop-helper.php:199
+#: admin/class-aioseop-helper.php:201 admin/class-aioseop-helper.php:235
+#: admin/class-aioseop-helper.php:237 admin/class-aioseop-helper.php:239
+#: admin/class-aioseop-helper.php:351 admin/class-aioseop-helper.php:357
+#: admin/class-aioseop-helper.php:359 admin/class-aioseop-helper.php:570
+#: admin/class-aioseop-helper.php:572 admin/class-aioseop-helper.php:574
+#: admin/class-aioseop-helper.php:1130 admin/class-aioseop-helper.php:1136
+#: admin/class-aioseop-helper.php:1142 admin/class-aioseop-helper.php:1178
+#: admin/class-aioseop-helper.php:1184 admin/class-aioseop-helper.php:1190
+msgid "The %1$s when the %2$s was published (localized)"
+msgstr "%1$s pada saat %2$s diterbitkan (terlokalkan)"
+
+#. translators: Example sentence: "The first name of the author of the Post"
+#: admin/class-aioseop-helper.php:143 admin/class-aioseop-helper.php:146
+#: admin/class-aioseop-helper.php:152 admin/class-aioseop-helper.php:154
+#: admin/class-aioseop-helper.php:180 admin/class-aioseop-helper.php:182
+#: admin/class-aioseop-helper.php:184 admin/class-aioseop-helper.php:186
+#: admin/class-aioseop-helper.php:219 admin/class-aioseop-helper.php:221
+#: admin/class-aioseop-helper.php:223 admin/class-aioseop-helper.php:225
+#: admin/class-aioseop-helper.php:554 admin/class-aioseop-helper.php:556
+#: admin/class-aioseop-helper.php:558 admin/class-aioseop-helper.php:560
+msgid "The %1$s of the author of the %2$s"
+msgstr "%1$s penulis dari %2$s"
+
+#: admin/class-aioseop-notices.php:1189 admin/class-aioseop-notices.php:1220
+msgid "Notice updated successfully."
+msgstr "Pemberitahuan berhasil diperbarui."
+
+#: admin/display/notices/sitemap-indexes-notice.php:21
+msgid "Notice: To avoid problems with your XML Sitemap, we strongly recommend you set the Maximum Posts per Sitemap Page to 1,000."
+msgstr "Perhatian: Untuk menghindari masalah dengan sitemap XML Anda, kami sangat menyarankan Anda untuk mengatur jumlah pos maksimum per halaman Sitemap ke 1,000. "
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack. "Settings > Reading" refers to the "Reading" submenu in WordPress
+#. Core.
+#: admin/display/notices/blog-visibility-notice.php:26
+msgid "Warning: %s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "Peringatan: %s telah mendeteksi bahwa Anda memblokir akses ke mesin pencari. Anda dapat mengubah ini di Pengaturan > Membaca apabila ini tidak disengaja. "
+
+#: admin/class-aioseop-helper.php:289
+msgid "The original archive day, e.g. \"17\""
+msgstr "Tanggal arsip asli, misalnya \"17\""
+
+#. Translators: Displays the hardcoded slug that is missing.
+#. Translators: Displays the hardcoded action index that is missing.
+#. Translators: Displays the hardcoded ID that is missing.
+#: admin/class-aioseop-notices.php:1165 admin/class-aioseop-notices.php:1168
+#: admin/class-aioseop-notices.php:1214
+msgid "Missing values from `%s`."
+msgstr "Nilai yang kurang dari `%s`."
+
+#. translators: The "nicename" is the sanitized version of a username.
+#: admin/class-aioseop-helper.php:148 admin/class-aioseop-helper.php:182
+#: admin/class-aioseop-helper.php:221 admin/class-aioseop-helper.php:556
+msgid "nicename"
+msgstr "nama cantik"
+
+#: admin/class-aioseop-notices.php:573
+msgid "Dismiss"
+msgstr "Abaikan"
+
+#: admin/display/notices/sitemap-indexes-notice.php:35
+#: admin/display/notices/blog-visibility-notice.php:40
+msgid "Remind me later"
+msgstr "Ingatkan saya nanti"
+
+#. translators: %s is a placeholder so it should not be translated. It will be
+#. replaced with the name of the plugin, All in One SEO Pack.
+#: modules/aioseop_performance.php:410
+#: modules/aioseop_importer_exporter.php:536
+msgid "Settings export file for %s"
+msgstr "Pengaturan berkas ekspor untuk %s"
+
+#. translators: "%s" is a placeholder so it should not be translated. It will
+#. be replaced with the name of the premium version of the plugin, All in One
+#. SEO Pack Pro.
+#: modules/aioseop_performance.php:369
+msgid "%s Debug Info"
+msgstr "%s Informasi Debug"
+
+#: modules/aioseop_performance.php:364
+msgid "Inactive Plugins"
+msgstr "Plugin Tidak Aktif"
+
+#: modules/aioseop_performance.php:352
+msgid "Active Plugins"
+msgstr "Plugin Aktif"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: modules/aioseop_feature_manager.php:70
+msgid "Exports and imports your %s plugin settings."
+msgstr "Ekspor dan impor pengaturan plugin %s Anda."
+
+#: aioseop_class.php:414
+msgid "Part"
+msgstr "Bagian"
+
+#: modules/aioseop_sitemap.php:367
+msgid "Excluded Terms"
+msgstr "Istilah yang dikecualikan"
+
+#: modules/aioseop_opengraph.php:257
+msgid " characters. We recommend a maximum of %1$s chars for the %2$s."
+msgstr "karakter. Kami menyarankan maksimum %1$s karakter untuk %2$s."
+
+#. translators: %1$s, %2$s and %3$s are placeholders and should not be
+#. translated. %1$s expands to the name of the plugin, All in One SEO Pack,
+#. %2$s to the name of a filter function and %3$s is replaced with a number.
+#: aioseop_class.php:4592
+msgid "Debug Warning: %1$s meta data was included again from %2$s filter. Called %3$s times!"
+msgstr "Pesan Debug: meta data %1$s disertakan lagi dari filter %2$s. Telah dipanggil %3$s kali!"
+
+#. translators: This expression means "a small period/brief period of time".
+#: inc/commonstrings.php:124
+msgid "a short while"
+msgstr "sebentar"
+
+#: inc/commonstrings.php:121
+msgid "Include Custom Fields"
+msgstr "Sertakan Field Kustom"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with a period of time, such as "5 minutes"
+#. or "a short while".
+#: inc/commonstrings.php:126
+msgid "Video sitemap scan in progress. Please check again in %s."
+msgstr "Pemindaian sitemap video sedang dalam proses. Silakan cek kembali dalam %s."
+
+#: inc/commonstrings.php:82 admin/class-aioseop-helper.php:777
+#: admin/class-aioseop-helper.php:784
+msgid "Author Pages"
+msgstr "Halaman Penulis"
+
+#: inc/commonstrings.php:81 admin/class-aioseop-helper.php:776
+#: admin/class-aioseop-helper.php:783
+msgid "Archive Pages"
+msgstr "Halaman Arsip"
+
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#. translators: Example sentence: "The first name of the author of the Post"
+#: inc/commonstrings.php:78 admin/class-aioseop-helper.php:140
+#: admin/class-aioseop-helper.php:143 admin/class-aioseop-helper.php:149
+#: admin/class-aioseop-helper.php:152 admin/class-aioseop-helper.php:154
+#: admin/class-aioseop-helper.php:773 admin/class-aioseop-helper.php:780
+msgid "Homepage"
+msgstr "Beranda"
+
+#: inc/commonstrings.php:122
+msgid "Video sitemap scan completed successfully!"
+msgstr "Pemindaian sitemap video berhasil diselesaikan!"
+
+#: inc/commonstrings.php:68
+msgid "Enable this option to look for videos in custom fields as well."
+msgstr "Aktifkan pilihan ini untuk mencari video di Field kustom juga."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: inc/commonstrings.php:33
+msgid "Check this to move the %s menu item to the top of your WordPress Dashboard menu."
+msgstr "Centang ini untuk memindahkan item menu %s ke posisi paling atas menu Dashboard WordPress Anda."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: inc/commonstrings.php:31
+msgid "Check this to add %s to the Toolbar for easy access to your SEO settings."
+msgstr "Centang ini untuk menambahkan %s ke Toolbar untuk akses mudah ke pengaturan SEO Anda."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: inc/commonstrings.php:28
+msgid "Use these checkboxes to select which Taxonomies you want to use %s with."
+msgstr "Gunakan kotak ini untuk memilih Taksonomi yang Anda ingin gunakan dengan %s. "
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with a noun.
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: inc/commonstrings.php:51 admin/class-aioseop-helper.php:255
+msgid "The description of the %s"
+msgstr "Deskripsi %s"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with a noun.
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: inc/commonstrings.php:49 admin/class-aioseop-helper.php:140
+#: admin/class-aioseop-helper.php:178 admin/class-aioseop-helper.php:214
+#: admin/class-aioseop-helper.php:252 admin/class-aioseop-helper.php:273
+#: admin/class-aioseop-helper.php:338 admin/class-aioseop-helper.php:467
+#: admin/class-aioseop-helper.php:488 admin/class-aioseop-helper.php:535
+msgid "The original title of the %s"
+msgstr "Judul asli %s"
+
+#: inc/commonstrings.php:46 admin/class-aioseop-helper.php:137
+#: admin/class-aioseop-helper.php:176 admin/class-aioseop-helper.php:212
+#: admin/class-aioseop-helper.php:250 admin/class-aioseop-helper.php:270
+#: admin/class-aioseop-helper.php:285 admin/class-aioseop-helper.php:302
+#: admin/class-aioseop-helper.php:313 admin/class-aioseop-helper.php:324
+#: admin/class-aioseop-helper.php:334 admin/class-aioseop-helper.php:370
+#: admin/class-aioseop-helper.php:533 admin/class-aioseop-helper.php:1113
+#: admin/class-aioseop-helper.php:1161
+msgid "Your site description"
+msgstr "Deskripsi situs Anda"
+
+#: inc/commonstrings.php:45 admin/class-aioseop-helper.php:135
+#: admin/class-aioseop-helper.php:174 admin/class-aioseop-helper.php:210
+#: admin/class-aioseop-helper.php:248 admin/class-aioseop-helper.php:268
+#: admin/class-aioseop-helper.php:283 admin/class-aioseop-helper.php:300
+#: admin/class-aioseop-helper.php:311 admin/class-aioseop-helper.php:322
+#: admin/class-aioseop-helper.php:332 admin/class-aioseop-helper.php:368
+#: admin/class-aioseop-helper.php:461 admin/class-aioseop-helper.php:482
+#: admin/class-aioseop-helper.php:531 admin/class-aioseop-helper.php:1111
+#: admin/class-aioseop-helper.php:1159
+msgid "Your site title"
+msgstr "Judul situs Anda"
+
+#: inc/sitemap-xsl.php:96
+msgid "sitemaps"
+msgstr "sitemap"
+
+#: inc/sitemap-xsl.php:95 inc/news-sitemap-xsl.php:100
+msgid "URLs"
+msgstr "URL"
+
+#: inc/sitemap-xsl.php:96
+msgid "This sitemap index contains"
+msgstr "Indeks sitemap berisi"
+
+#: inc/sitemap-xsl.php:95
+msgid "This sitemap contains"
+msgstr "Sitemap berisi"
+
+#: inc/sitemap-xsl.php:91
+msgid "Generated by"
+msgstr "Dibuat oleh"
+
+#: inc/sitemap-xsl.php:91
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "ini adalah Sitemap XML, dimaksudkan untuk dikonsumsi oleh mesin pencari seperti Google atau Bing. "
+
+#: inc/commonstrings.php:55 admin/class-aioseop-helper.php:707
+#: admin/class-aioseop-helper.php:949 admin/class-aioseop-helper.php:1251
+#: admin/class-aioseop-helper.php:1299
+msgid "Click here for documentation on this setting."
+msgstr "Klik disini untuk dokumentasi dari pengaturan ini."
+
+#: modules/aioseop_sitemap.php:294
+msgid "Create RSS Sitemap"
+msgstr "Buat Sitemap RSS"
+
+#: inc/commonstrings.php:56
+msgid "Create RSS Sitemap as well."
+msgstr "Buat Sitemap RSS juga."
+
+#. translators: This is the name of a settings section where users can indicate
+#. which post types and taxonomies they want to use All in One SEO Pack with.
+#: aioseop_class.php:1130
+msgid "Content Type Settings"
+msgstr "Pengaturan Jenis Konten"
+
+#: modules/aioseop_robots.php:745
+msgid "Modify Rule"
+msgstr "Ubah Aturan"
+
+#: modules/aioseop_robots.php:58
+msgid "Disallow"
+msgstr "Tidak Diperbolehkan"
+
+#: inc/aioseop_functions.php:456
+msgid "Please provide absolute URLs (including http or https)."
+msgstr "Silakan masukan URL absolut (dengan http atau https)"
+
+#: modules/aioseop_robots.php:645
+msgid "Identical rule exists: %s"
+msgstr "Ditemukan aturan serupa: %s"
+
+#: modules/aioseop_robots.php:623
+msgid "User Agent cannot be empty"
+msgstr "User Agent tidak boleh kosong"
+
+#: modules/aioseop_robots.php:54
+msgid "Rule"
+msgstr "Aturan"
+
+#: modules/aioseop_robots.php:626
+msgid "Directory Path cannot be empty"
+msgstr "Alamat Direktori tidak bisa kosong"
+
+#: modules/aioseop_robots.php:688
+msgid "Wild-card path cannot be overridden: %s"
+msgstr "Alamat Wild-card tidak bisa diubah: %s"
+
+#: modules/aioseop_robots.php:666
+msgid "Path cannot be overridden: %s"
+msgstr "Alamat tidak bisa diubah: %s"
+
+#: modules/aioseop_robots.php:57
+msgid "Allow"
+msgstr "Izinkan"
+
+#: modules/aioseop_robots.php:214
+msgid "Unable to read file"
+msgstr "Tidak dapat membaca berkas"
+
+#: modules/aioseop_robots.php:41
+msgid "Use the rule builder below to add/delete rules."
+msgstr "Gunakan pembuat aturan di bawah untuk menambah/menghapus aturan"
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Edit your .htaccess file to fine-tune your site."
+msgstr "Edit file .htaccess anda untuk mengatur laman anda."
+
+#: modules/aioseop_robots.php:84
+msgid "Configured Rules"
+msgstr "Aturan telah dikonfigurasi"
+
+#: modules/aioseop_robots.php:219
+msgid "Unable to delete file"
+msgstr "Tidak dapat menghapus berkas"
+
+#: modules/aioseop_robots.php:135
+msgid "A physical file exists. This feature cannot be used."
+msgstr "Berkas fisik ditemukan. Fitur ini tidak dapat digunakan."
+
+#: modules/aioseop_robots.php:132
+msgid "A physical file exists. Do you want to %simport and delete%s it, %sdelete%s it or continue using it?"
+msgstr "Berkas fisik ditemukan. Apakah anda ingin %simpor dan hapus%s berkas tersebut, %shapus%s berkas tersebut atau lanjut menggunakannya?"
+
+#: modules/aioseop_robots.php:659
+msgid "Rule cannot be overridden: %s"
+msgstr "Aturan tidak bisa diubah: %s"
+
+#: inc/commonstrings.php:69
+msgid "URL to the page. This field accepts relative URLs or absolute URLs with the protocol specified."
+msgstr "URL ke laman. Field ini menerima URL relatif atau URL absolut dengan protokol yang ditentukan."
+
+#. translators: Shows which sitemap files were renamed.
+#: modules/aioseop_sitemap.php:1331
+msgid "Renamed %1$s to %2$s."
+msgstr "Nama diubah dari %1$s menjadi %2$s."
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1314
+msgid "File %s isn't writable!"
+msgstr "Berkas %s tidak bisa ditulis!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1385
+msgid "File %s already exists!"
+msgstr "Berkas %s sudah ada!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1352 admin/aioseop_module_class.php:1382
+msgid "File %s doesn't exist!"
+msgstr "Berkas %s tidak ada!"
+
+#: admin/aioseop_module_class.php:269
+msgid "Method %s doesn't exist"
+msgstr "Metode %s tidak ada"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1346
+msgid "Failed to delete file %s!"
+msgstr "Gagal menghapus berkas %s!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1312
+msgid "Failed to write file %s!"
+msgstr "Gagal menulis berkas %s!"
+
+#. translators: %s is a placeholder and will be replaced with the name of the
+#. relevant file.
+#: admin/aioseop_module_class.php:1375
+msgid "Failed to rename file %s!"
+msgstr "Gagal mengganti nama berkas %s!"
+
+#: inc/aioseop_functions.php:503
+msgid "All values are mandatory."
+msgstr "Semua nilai wajib ada."
+
+#: modules/aioseop_sitemap.php:210
+msgid "Exclude Images"
+msgstr "Kecualikan Gambar"
+
+#: inc/commonstrings.php:64 admin/class-aioseop-helper.php:757
+msgid "Exclude Images in your sitemap."
+msgstr "Kecualikan Gambar dalam sitemap Anda"
+
+#: inc/commonstrings.php:43
+msgid "Check this if you want to track interactions with the official Facebook and Twitter widgets with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak interaksi dengan widget resmi Facebook dan Twitter menggunakan Google Analytics. "
+
+#: inc/commonstrings.php:35
+msgid "Check this if you want to track events with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak peristiwa-peristiwa menggunakan Google Analytics."
+
+#: inc/commonstrings.php:44
+msgid "Check this if you want to ensure consistency in URL paths reported to Google Analytics."
+msgstr "Centang ini apabila Anda ingin memastikan konsistensi pada alamat-alamat URL yang dilaporkan ke Google Analytics."
+
+#: inc/commonstrings.php:101
+msgid "Ensure URL Consistency:"
+msgstr "Pastikan konsistensi URL:"
+
+#: inc/commonstrings.php:100
+msgid "Track Facebook and Twitter:"
+msgstr "Lacak Facebook dan Twitter:"
+
+#: inc/commonstrings.php:94
+msgid "Track Events:"
+msgstr "Lacak Peristiwa:"
+
+#: inc/commonstrings.php:96
+msgid "Track Page Visibility:"
+msgstr "Lacak Visibilitas Halaman:"
+
+#: inc/commonstrings.php:99
+msgid "Track Page Scrolling:"
+msgstr "Lacak Pengguliran Halaman:"
+
+#: inc/commonstrings.php:42
+msgid "Check this if you want to track how far down a user scrolls a page with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak seberapa jauh pengguna menggulir pada sebuah halaman menggunakan Google Analytics. "
+
+#: inc/commonstrings.php:37
+msgid "Check this if you want to track how long pages are in visible state with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak seberapa lama halaman berada dalam keadaan visibel menggunakan Google Analytics."
+
+#: inc/commonstrings.php:98
+msgid "Track Elements Visibility:"
+msgstr "Lacak Visibilitas Elemen:"
+
+#. translators: The term "viewport" refers to the area of the page that is
+#. visible to the user, see https://www.w3schools.com/css/css_rwd_viewport.asp.
+#: inc/commonstrings.php:41
+msgid "Check this if you want to track when elements are visible within the viewport with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak pada saat elemen terlihat dalam viewport menggunakan Google Analytics."
+
+#: inc/commonstrings.php:97
+msgid "Track Media Query:"
+msgstr "Lacak Media Query:"
+
+#. translators: 'This option allows users to track media queries, allowing them
+#. to find out if users are viewing a responsive layout or not and which layout
+#. changes have been applied if the browser window has been resized by the
+#. user, see
+#. https://github.com/googleanalytics/autotrack/blob/master/docs/plugins/media-query-tracker.md.
+#: inc/commonstrings.php:39
+msgid "Check this if you want to track media query matching and queries with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak pencocokan media query dan kueri lainnya menggunakan Google Analytics."
+
+#: inc/commonstrings.php:34
+msgid "Check this if you want to track outbound forms with Google Analytics."
+msgstr "Centang ini jika Anda ingin melacak formulir yang keluar menggunakan Google Analytics."
+
+#: inc/commonstrings.php:93
+msgid "Track Outbound Forms:"
+msgstr "Lacak Formulir Keluar:"
+
+#: inc/commonstrings.php:95
+msgid "Track URL Changes:"
+msgstr "Lacak Perubahan URL:"
+
+#: inc/commonstrings.php:36
+msgid "Check this if you want to track URL changes for single pages with Google Analytics."
+msgstr "Centang ini apabila Anda ingin melacak perubahan URL untuk halaman individu menggunakan Google Analytics."
+
+#: inc/commonstrings.php:104
+msgid "%s is almost ready."
+msgstr "%s hampir siap. "
+
+#. translators: This is a setting that allows users to add the NOFOLLOW robots
+#. meta tag value to the current post/page.
+#: aioseop_class.php:1007
+msgid "NOFOLLOW this page/post"
+msgstr "NOFOLLOW halaman/pos ini"
+
+#. translators: This is a setting that allows users to add the NOINDEX robots
+#. meta tag value to the current post/page.
+#: aioseop_class.php:1001
+msgid "NOINDEX this page/post"
+msgstr "NOINDEX halaman/pos ini"
+
+#. translators: %1$s and %2$s are placeholders, which means that it should not
+#. be translated. They will be replaced with nouns in the application.
+#: inc/commonstrings.php:112
+msgid "Your license has expired. Please %1$s click here %2$s to purchase a new one."
+msgstr "Lisensi Anda telah kadaluarsa. Silakan %1$s klik disini %2$s untuk membeli lisensi baru."
+
+#. translators: Social Meta refers to Open Graph (OG:) meta tags, which can be
+#. used to control the appearance of a site's posts/pages when shared on social
+#. media networks like Facebook and Twitter.
+#: modules/aioseop_feature_manager.php:51
+msgid "Add Social Meta data to your site to deliver closer integration between your website and social media."
+msgstr "Tambahkan Meta Sosial ke situs Anda untuk semakin mengintegrasi situs web Anda dengan media sosial."
+
+#: admin/class-aioseop-helper.php:935
+msgid "Select the Twitter Card type to use for this Page or Post, overriding the default setting."
+msgstr "Pilih jenis Kartu Twitter yang akan digunakan pada Halaman atau Pos, menimpa pengaturan defaultnya."
+
+#. translators: leave all the code inside the brackets < and > unchanged.
+#: inc/commonstrings.php:106
+msgid "You must <a href=\"%s\">enter a valid License Key</a> for it to work."
+msgstr "Anda harus <a href=\"%s\">memasukkan Kunci Lisensi yang valid</a> untuk menjalankannya. "
+
+#. translators: leave all the code inside the brackets < and > unchanged.
+#: inc/commonstrings.php:110
+msgid "There is a new version of %1$s available. Go to <a href='%2$s'>the plugins page</a> for details."
+msgstr "Tersedia versi baru dari %1$s. Kunjungi <a href='%2$s'>halaman plugin</a> untuk rincian lebih lanjut."
+
+#: admin/aioseop_module_class.php:2570
+msgid "Upload Image"
+msgstr "Unggah Gambar"
+
+#: modules/aioseop_opengraph.php:473
+msgid "Enable Facebook Meta for Post Types"
+msgstr "Aktifkan Meta Facebook untuk Jenis Pos"
+
+#. translators: This is a label that shows what the current permalink structure
+#. is. The permalink structure is the way that the URLs of the website are
+#. formatted, e.g. "examplesite.com/?p=123" or
+#. "examplesite.com/1970/01/01/sample-post/".
+#: modules/aioseop_performance.php:350
+msgid "Permalink Setting"
+msgstr "Pengaturan Permalink"
+
+#. translators: This is a label that shows what page is used as the
+#. homepage/front page.
+#: modules/aioseop_performance.php:347
+msgid "Front Page Displays"
+msgstr "Tampilan Halaman Depan"
+
+#: modules/aioseop_performance.php:348
+msgid "Search Engine Visibility"
+msgstr "Visibilitas Mesin Pencarian"
+
+#: modules/aioseop_performance.php:345
+msgid "Site Language"
+msgstr "Bahasa Situs"
+
+#: modules/aioseop_performance.php:344
+msgid "Site Title"
+msgstr "Judul Situs"
+
+#: admin/class-aioseop-helper.php:441
+msgid "Check this and your Meta Descriptions for any Post Type will be auto-generated using the Post Excerpt, or the first 160 characters of the post content if there is no Post Excerpt. You can overwrite any auto-generated Meta Description by editing the post or page."
+msgstr "Centang ini dan Deskripsi Meta Anda untuk setiap Jenis Pos akan dihasilkan secara otomatis dengan menggunakan Kutipan Pos, atau 160 karakter pertama dari konten pos jika tidak ada Kutipan Pos. Anda dapat menimpa Deskripsi Meta yang dihasilkan secara otomatis dengan mengubah pos atau halaman."
+
+#: admin/display/general-metaboxes.php:195
+msgid "Video SEO Module"
+msgstr "Modul SEO Video"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Email Address"
+msgstr "Alamat E-mail"
+
+#: aioseop_class.php:408
+msgid "Nothing found for %request_words%"
+msgstr "Tidak ada yang ditemukan untuk %request_words%"
+
+#: admin/display/general-metaboxes.php:201
+msgid "Access to Video Screencasts"
+msgstr "Akses ke screencast video"
+
+#: admin/display/general-metaboxes.php:186
+msgid "SEO for Categories, Tags and Custom Taxonomies"
+msgstr "SEO untuk kategori, tag, dan taksonomi kustom"
+
+#: inc/admin/class-aioseop-education.php:916
+#: admin/display/general-metaboxes.php:190
+msgid "Advanced support for WooCommerce"
+msgstr "Dukungan lanjutan untuk WooCommerce"
+
+#: admin/display/general-metaboxes.php:124
+msgid "Subscribe"
+msgstr "Langganan"
+
+#: admin/display/general-metaboxes.php:203
+msgid "Access to Knowledge Center"
+msgstr "Akses ke Pusat Pengetahuan"
+
+#: modules/aioseop_opengraph.php:325
+msgid "Use Content For Autogenerated OG Descriptions"
+msgstr "Gunakan konten untuk deskripsi OG yang dihasilkan secara otomatis"
+
+#: admin/class-aioseop-helper.php:919
+msgid "This option will auto generate your Open Graph descriptions from your post content instead of your post excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "Pilihan ini akan menghasilkan deskripsi Open Graph secara otomatis dari isi pos Anda, bukan dari kutipan pos Anda. Pengguna WooCommerce sebaiknya membaca dokumentasi mengenai pengaturan ini."
+
+#: admin/class-aioseop-helper.php:442
+msgid "This option will auto generate your meta descriptions from your post content instead of your post excerpt. This is useful if you want to use your content for your autogenerated meta descriptions instead of the excerpt. WooCommerce users should read the documentation regarding this setting."
+msgstr "Pilihan ini akan menghasilkan deskripsi meta Anda secara otomatis dari isi pos Anda, bukan dari kutipan pos Anda. Ini berguna jika Anda ingin menggunakan konten sebagai meta deskripsi otomatis Anda, bukan kutipan pos. Pengguna WooCommerce sebaiknya membaca dokumentasi mengenai pengaturan ini."
+
+#: admin/display/welcome-content.php:122
+msgid "Access to video tutorials about SEO with the Pro version"
+msgstr "Akses video tutorial tentang SEO dengan versi Pro"
+
+#. translators: This is a button users can click to reset the settings of a
+#. specific module to their default values. %s is a placeholder and will be
+#. replaced with the name of a settings menu (e.g. "Performance").
+#: admin/aioseop_module_class.php:3036
+msgid "Reset %s Settings to Defaults"
+msgstr "Atur Ulang Pengaturan %s ke Default"
+
+#: admin/class-aioseop-helper.php:115
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation. This will help to prevent duplicate content penalties by Google."
+msgstr "Pilihan ini akan menghasilkan URL Kanonis secara otomatis untuk seluruh instalasi WordPress Anda. Ini akan membantu mencegah penalti untuk konten duplikat dari Google."
+
+#: inc/commonstrings.php:90
+msgid "Show SEO News"
+msgstr "Tampilkan Berita SEO"
+
+#: inc/commonstrings.php:29
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "Ini menampilkan sebuah widget Berita SEO di dasbor. "
+
+#. translators: Shows which files were removed.
+#: modules/aioseop_sitemap.php:1445
+msgid "Removed empty file %s."
+msgstr "Berkas kosong %s telah dihapus."
+
+#: admin/display/dashboard_widget.php:40
+msgid "SEO News"
+msgstr "Berita SEO"
+
+#: admin/display/welcome-content.php:135
+msgid "Continue to the General Settings"
+msgstr "Lanjut ke Pengaturan Umum"
+
+#: admin/display/aioseop-welcome.php:134
+msgid "What&#8217;s New"
+msgstr "Apa yang Baru"
+
+#: admin/display/welcome-content.php:109
+msgid "Did You Know?"
+msgstr "Tahukah Anda?"
+
+#: admin/display/welcome-content.php:97
+msgid "Submit an XML Sitemap to Google"
+msgstr "Kirim sebuah sitemap XML ke Google"
+
+#: admin/display/welcome-content.php:115
+msgid "We have complete documentation on every setting and feature"
+msgstr "Kami mempunyai dokumentasi lengkap tentang segala pengaturan dan fitur"
+
+#: admin/display/welcome-content.php:79
+msgid "Beginners Guide for Social Meta module"
+msgstr "Panduan Pemula untuk modul Meta Sosial"
+
+#: admin/display/welcome-content.php:73
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "Panduan Pemula untuk modul sitemap XML"
+
+#: admin/display/welcome-content.php:85
+msgid "Tips for good on-page SEO"
+msgstr "Tips untuk SEO halaman yang baik "
+
+#: admin/display/welcome-content.php:91
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "Pedoman berkualitas untuk judul dan deskripsi SEO"
+
+#: admin/display/welcome-content.php:55
+msgid "Get Started"
+msgstr "Memulai"
+
+#: admin/display/welcome-content.php:103
+msgid "Set up Google Analytics"
+msgstr "Menyiapkan Google Analytics"
+
+#: admin/display/welcome-content.php:128
+msgid "Control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "Kontrol SEO untuk kategori, tag dan taksonomi kustom dengan versi Pro"
+
+#. translators: %1$s and %2$s are placeholders, which means that these should
+#. not be translated. These will be replaced with the name of the plugin, All
+#. in One SEO Pack, and the current version number.
+#: admin/display/aioseop-welcome.php:126
+msgid "%1$s %2$s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "%1$s %2$s berisi fitur-fitur baru, perbaikan bug, peningkatan keamanan dan banyak sekali perbaikan performa."
+
+#: admin/display/welcome-content.php:39
+msgid "Upgrade"
+msgstr "Upgrade"
+
+#: admin/display/welcome-content.php:51
+msgid "Translate"
+msgstr "Terjemahkan"
+
+#: modules/aioseop_opengraph.php:451
+msgid "Custom Twitter Image"
+msgstr "Gambar Twitter Kustom"
+
+#: admin/class-aioseop-helper.php:936
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "Pilihan ini memungkinkan Anda untuk mengunggah sebuah gambar untuk digunakan sebagai gambar Twitter untuk halaman atau pos ini."
+
+#: admin/class-aioseop-helper.php:447
+msgid "Redirect attachment pages to post parent."
+msgstr "Alihkan halaman lampiran ke link induk pos:"
+
+#: inc/commonstrings.php:66 admin/class-aioseop-helper.php:759
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "Membuat sitemap XML secara dinamis daripada menggunakan berkas statis."
+
+#: modules/aioseop_importer_exporter.php:585
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>Pesan Keamanan:</b> Berkas anda terlihat mencurigakan. Mohon periksa berkas dari injeksi script."
+
+#: admin/display/general-metaboxes.php:87
+msgid "%1$s has been translated into %2$s languages, but currently the %3$s translation is only %4$s percent complete. %5$sClick here%6$s to help get it to 100 percent."
+msgstr "%1$s telah diterjemahkan ke dalam %2$s bahasa, tetapi hingga saat ini %3$s terjemahan hanya %4$s persen tuntas. %5$sKlik di sini%6$s untuk membantu menyelesaikannya."
+
+#: admin/meta_import.php:103 admin/meta_import.php:109
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "Maaf, tapi Anda tidak boleh melakukan itu. Harap pilih suatu platform kemudian klik Analisis atau Konversi."
+
+#: admin/meta_import.php:241
+msgid "Convert"
+msgstr "Konversi"
+
+#: admin/meta_import.php:236
+msgid "Analyze"
+msgstr "Analisis"
+
+#: admin/meta_import.php:222
+msgid "Themes"
+msgstr "Tema"
+
+#: admin/meta_import.php:210
+msgid "Import SEO data from:"
+msgstr "Impor data SEO dari:"
+
+#: admin/meta_import.php:212
+msgid "Choose platform:"
+msgstr "Pilih platform:"
+
+#: admin/meta_import.php:214
+msgid "Plugins"
+msgstr "Plugin"
+
+#: admin/meta_import.php:168
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Gunakan menu drop down untuk memilih data SEO dari plugin atau tema mana yang ingin Anda impor."
+
+#: admin/meta_import.php:182
+msgid "Please Note: "
+msgstr "Perhatian:"
+
+#: admin/meta_import.php:196
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Klik \"Konversi\" untuk melakukan impor. Setelah impor selesai, Anda akan diberitahu berapa banyak records yang telah diimpor, dan berapa banyak record yang harus diabaikan, berdasarkan kriteria di atas."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/meta_import.php:175
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into %s, along with the number of records that will be imported."
+msgstr "Klik \"Analisis\" untuk menampilkan daftar data SEO yang dapat diimpor ke %s, disertai dengan jumlah catatan yang akan diimpor."
+
+#: admin/meta_import.php:187
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in %s, we will not import data from another plugin/theme."
+msgstr "Beberapa plugin dan tema tidak memiliki data yang sama, atau mereka menyimpan data dengan cara yang tidak lazim. Jika kami tidak bisa mengimpor data ini, maka data di database Anda tidak akan berubah. Data-data SEO yang kompatibel akan ditampilkan untuk Anda tinjau. Jika pos atau halaman sudah mempunyai data SEO di %s, kami tidak akan impor data dari plugin/tema lain."
+
+#: admin/meta_import.php:141
+msgid "Conversion Results"
+msgstr "Hasil Konversi"
+
+#: admin/meta_import.php:118
+msgid "Analysis Results"
+msgstr "Hasil Analisis"
+
+#: admin/meta_import.php:165
+msgid "Import SEO Settings"
+msgstr "Impor Pengaturan SEO"
+
+#: admin/meta_import.php:131
+msgid "Compatible data:"
+msgstr "Data yang kompatibel:"
+
+#: admin/meta_import.php:122 admin/meta_import.php:145
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Maaf, terjadi kesalahan. Silakan coba kembali"
+
+#: admin/meta_import.php:127
+msgid "<p>Analyzing records in a %1$s to %2$s conversion&hellip;"
+msgstr "<p>Menganalisis catatan di sebuah %1$s menjadi konversi%2$s &hellip;"
+
+#: admin/meta_import.php:85
+msgid "Import SEO Data"
+msgstr "Impor Data SEO"
+
+#: admin/meta_import.php:58
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO telah dinonaktifkan"
+
+#: admin/meta_import.php:85
+msgid "SEO Data Import"
+msgstr "Pengimporan Data SEO"
+
+#. translators: %1$s, %2$s and %3$s are placeholders, which means these
+#. shouldn't be translated. The first two placeholders are used to add a link
+#. to anchor text and the third is replaced with the name of the plugin, All in
+#. One SEO Pack.
+#: admin/meta_import.php:49
+msgid "The plugin Yoast SEO has been detected. Do you want to %1$simport its settings%2$s into %3$s"
+msgstr "Plugin Yoast SEO telah terdeteksi. Apakah Anda ingin %1$smengimpor pengaturannya%2$s ke %3$s"
+
+#: admin/meta_import.php:53
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %1$simport its settings%2$s?"
+msgstr "Plugin All-in-One-SEO terdeteksi. Apakah Anda ingin %1$simpor pengaturannya%2$s?"
+
+#: admin/class-aioseop-helper.php:1085
+msgid "Block Referral Spam using HTTP."
+msgstr "Cegah Referral Spam menggunakan HTTP. "
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block Bad Bots using HTTP"
+msgstr "Cegah Bad Bots menggunakan HTTP. "
+
+#: modules/aioseop_bad_robots.php:29
+msgid "Use Custom Blocklists"
+msgstr "Gunakan kustomasi Blocklists"
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Block Referral Spam using HTTP"
+msgstr "Cegah  Referral Spam mengakses HTTP"
+
+#: inc/admin/views/class-aioseop-about.php:406
+#: modules/aioseop_feature_manager.php:104
+msgid "Image SEO"
+msgstr "SEO Gambar"
+
+#: modules/aioseop_feature_manager.php:90
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Buat dan atur Sitemap Video dengan menggunakan fitur ini dan kirim Sitemap Video Anda ke Google, Bing/Yahoo dan Ask.com."
+
+#: inc/commonstrings.php:113
+msgid "Manage Licenses"
+msgstr "Atur Kode Lisensi"
+
+#: inc/commonstrings.php:108
+msgid "Purchase one now"
+msgstr "Beli kode lisensi sekarang "
+
+#: inc/commonstrings.php:107
+msgid "Need a license key?"
+msgstr "Butuh kode lisensi?"
+
+#: inc/commonstrings.php:114
+msgid "License Key is not set yet or invalid. "
+msgstr "Kode Lisensi belum diatur atau invalid. "
+
+#: inc/commonstrings.php:116
+msgid "Notice: "
+msgstr "Perhatian:"
+
+#: inc/commonstrings.php:67
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Jika dicentang, hanya pos dengan video saja yang akan ditampilkan pada sitemap. "
+
+#: inc/commonstrings.php:120
+msgid "Show Only Posts With Videos"
+msgstr "Hanya Tampilkan Pos dengan Konten Video"
+
+#. translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pack Pro.
+#: class-aioseop-core.php:675 aioseop_class.php:5366 admin/display/menu.php:64
+#: admin/display/notices/wc-detected-notice.php:32
+msgid "Upgrade to Pro"
+msgstr "Upgrade ke Pro"
+
+#. translators: This is an action link users can click to open our general
+#. documentation page.
+#: class-aioseop-core.php:664
+msgid "Documentation"
+msgstr "Dokumentasi"
+
+#. translators: This is an action link users can click to open the General
+#. Settings menu.
+#: class-aioseop-core.php:652 aioseop_class.php:5290
+msgid "SEO Settings"
+msgstr "Pengaturan SEO"
+
+#: aioseop_class.php:4620
+msgid "Debug String"
+msgstr "Debug String"
+
+#. translators: The taxonomy title format is the template that is used to
+#. format the title for each taxonomy term of a certain taxonomy (Categories,
+#. Tags, etc.).
+#: aioseop_class.php:3721
+msgid "Taxonomy Title Format:"
+msgstr "Format Judul Taksonomi:"
+
+#: inc/commonstrings.php:26
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Ini adalah kode lisensi yang akan Anda terima setelah membeli produk ini. Kode ini akan digunakan untuk peng-upgrade-an otomatis. "
+
+#: modules/aioseop_opengraph.php:270
+msgid "Facebook Admin ID"
+msgstr "ID Admin Facebook"
+
+#: modules/aioseop_opengraph.php:275
+msgid "Facebook App ID"
+msgstr "ID App Facebook"
+
+#: admin/class-aioseop-helper.php:901
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "Masukkan ID App Facebook Anda disini. Informasi mengenai cara mendapatkan ID App Facebook Anda dapat dilihat di  https://developers.facebook.com/docs/platforminsights/domains"
+
+#: aioseop_class.php:1072 modules/aioseop_sitemap.php:181
+msgid "Monthly"
+msgstr "Bulanan"
+
+#: aioseop_class.php:1071 modules/aioseop_sitemap.php:180
+msgid "Weekly"
+msgstr "Mingguan"
+
+#: aioseop_class.php:1070 modules/aioseop_sitemap.php:179
+msgid "Daily"
+msgstr "Harian"
+
+#: modules/aioseop_sitemap.php:178
+msgid "No Schedule"
+msgstr "Tidak Ada Jadwal"
+
+#: modules/aioseop_sitemap.php:396
+msgid "Priorities"
+msgstr "Prioritas"
+
+#: modules/aioseop_sitemap.php:403
+msgid "Frequencies"
+msgstr "Frekuensi"
+
+#: modules/aioseop_sitemap.php:550 admin/class-aioseop-usage.php:211
+msgid "Once Weekly"
+msgstr "Sekali Setiap Minggu"
+
+#: modules/aioseop_sitemap.php:554
+msgid "Once Monthly"
+msgstr "Sekali Setiap Bulan"
+
+#. translators: Shows which sitemap files couldn't be renamed.
+#: modules/aioseop_sitemap.php:1326
+msgid "Couldn't rename file %s!"
+msgstr "Tidak bisa mengubah nama file %s!"
+
+#. translators: Shows which sitemap files couldn't be found.
+#: modules/aioseop_sitemap.php:1336
+msgid "Couldn't find file %s!"
+msgstr "Tidak bisa menemukan file %s!"
+
+#: modules/aioseop_sitemap.php:212
+msgid "Dynamically Generate Sitemap"
+msgstr "Buat Sitemap Secara Dinamis"
+
+#: modules/aioseop_sitemap.php:259 admin/class-aioseop-helper.php:780
+#: admin/class-aioseop-helper.php:781 admin/class-aioseop-helper.php:782
+#: admin/class-aioseop-helper.php:783 admin/class-aioseop-helper.php:784
+#: admin/class-aioseop-helper.php:796 admin/class-aioseop-helper.php:804
+msgid "frequency"
+msgstr "frekuensi"
+
+#: modules/aioseop_sitemap.php:268
+msgid "taxonomies"
+msgstr "taksonomi"
+
+#: modules/aioseop_sitemap.php:343
+msgid "Last Modified"
+msgstr "Terakhir Dimodifikasi"
+
+#: modules/aioseop_sitemap.php:357
+msgid "Add URL"
+msgstr "Tambah URL"
+
+#: modules/aioseop_sitemap.php:918
+msgid "Update Sitemap"
+msgstr "Perbarui Sitemap"
+
+#: modules/aioseop_sitemap.php:1648
+msgid "dynamic"
+msgstr "dinamis"
+
+#: modules/aioseop_sitemap.php:1646
+msgid "static"
+msgstr "statis"
+
+#: inc/commonstrings.php:52 modules/aioseop_sitemap.php:823
+msgid "Taxonomy"
+msgstr "Taksonomi"
+
+#: modules/aioseop_sitemap.php:770
+msgid "All Taxonomies"
+msgstr "Semua Taksonomi"
+
+#: modules/aioseop_sitemap.php:1070
+#: admin/display/notices/blog-visibility-notice.php:20
+msgid "Reading Settings"
+msgstr "Pengaturan Membaca"
+
+#: modules/aioseop_sitemap.php:245
+msgid "Select Individual"
+msgstr "Pilih Individu"
+
+#: inc/commonstrings.php:77 modules/aioseop_sitemap.php:258
+#: admin/class-aioseop-helper.php:773 admin/class-aioseop-helper.php:774
+#: admin/class-aioseop-helper.php:775 admin/class-aioseop-helper.php:776
+#: admin/class-aioseop-helper.php:777 admin/class-aioseop-helper.php:795
+#: admin/class-aioseop-helper.php:803
+msgid "priority"
+msgstr "prioritas"
+
+#: modules/aioseop_sitemap.php:266
+msgid "homepage"
+msgstr "beranda"
+
+#: modules/aioseop_sitemap.php:267
+msgid "posts"
+msgstr "pos"
+
+#: inc/commonstrings.php:70 admin/class-aioseop-helper.php:761
+msgid "The priority of the page."
+msgstr "Prioritas halaman."
+
+#: inc/commonstrings.php:71 admin/class-aioseop-helper.php:762
+msgid "The frequency of the page."
+msgstr "Frekuensi halaman."
+
+#: inc/commonstrings.php:72 admin/class-aioseop-helper.php:763
+msgid "Last modified date of the page."
+msgstr "Tanggal modifikasi terakhir dari halaman."
+
+#: modules/aioseop_sitemap.php:175
+msgid "Schedule Updates"
+msgstr "Jadwalkan Pembaruan"
+
+#: modules/aioseop_sitemap.php:186
+msgid "Enable Sitemap Indexes"
+msgstr "Aktifkan Indeks Sitemap"
+
+#: modules/aioseop_sitemap.php:209
+msgid "Include Author Pages"
+msgstr "Sertakan Halaman Penulis"
+
+#: modules/aioseop_sitemap.php:269
+msgid "archive pages"
+msgstr "halaman arsip"
+
+#: modules/aioseop_sitemap.php:270
+msgid "author pages"
+msgstr "halaman penulis"
+
+#: modules/aioseop_sitemap.php:326
+msgid "Page URL"
+msgstr "URL Halaman"
+
+#: modules/aioseop_sitemap.php:331
+msgid "Page Priority"
+msgstr "Prioritas Halaman"
+
+#: modules/aioseop_sitemap.php:337
+msgid "Page Frequency"
+msgstr "Frekuensi Halaman"
+
+#: modules/aioseop_sitemap.php:350 modules/aioseop_sitemap.php:384
+msgid "Additional Pages"
+msgstr "Halaman Tambahan"
+
+#: modules/aioseop_sitemap.php:372
+msgid "Excluded Pages"
+msgstr "Halaman yang dikecualikan"
+
+#: modules/aioseop_sitemap.php:390
+msgid "Excluded Items"
+msgstr "Item yang dikecualikan"
+
+#: modules/aioseop_sitemap.php:1065
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Pembuat sitemap dinamis sepertinya tidak menggunakan aturan tulis ulang yang tepat; mohon nonaktifkan plugin sitemap atau fungsionalitas lain pada situs Anda dan atur ulang permalink Anda."
+
+#: modules/aioseop_sitemap.php:1294
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Peringatan: pembuatan Sitemap dinamis harus mengaktifkan permalink."
+
+#. translators: Shows which sitemap files have been deleted.
+#: modules/aioseop_sitemap.php:1315
+msgid "Deleted %s."
+msgstr "%s dihapus."
+
+#. translators: Shows which 'unknown' file is conflicting with the current
+#. sitemap settings.
+#: modules/aioseop_sitemap.php:1439
+msgid "Potential conflict with unknown file %s."
+msgstr "Berpotensi menimbulkan konflik dengan file %s yang tak dikenal."
+
+#: modules/aioseop_sitemap.php:1485
+msgid "Delete Conflicting Files"
+msgstr "Hapus File yang Konflik"
+
+#: inc/commonstrings.php:80 modules/aioseop_sitemap.php:204
+#: admin/class-aioseop-helper.php:775 admin/class-aioseop-helper.php:782
+msgid "Taxonomies"
+msgstr "Taksonomi"
+
+#: aioseop_class.php:1037 aioseop_class.php:1067
+#: modules/aioseop_sitemap.php:244
+msgid "Do Not Override"
+msgstr "Jangan Timpa"
+
+#: modules/aioseop_sitemap.php:822
+msgid "Post Type"
+msgstr "Jenis Pos"
+
+#: modules/aioseop_sitemap.php:769
+msgid "All Post Types"
+msgstr "Semua Jenis Pos"
+
+#: modules/aioseop_sitemap.php:199
+msgid "Post Types"
+msgstr "Jenis Pos"
+
+#: modules/aioseop_sitemap.php:320
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Masukkan informasi di bawah ini untuk setiap link tambahan untuk sitemap Anda yang belum dikelola melalui WordPress."
+
+#: modules/aioseop_sitemap.php:581
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Pemeriksaan sitemap harian selesai."
+
+#. translators: This refers to entries in the Media Library (images, videos,
+#. recordings and other files) and their attachment pages.
+#: aioseop_class.php:3647 aioseop_class.php:3650
+#: modules/aioseop_sitemap.php:767 admin/aioseop_module_class.php:945
+msgid "Media / Attachments"
+msgstr "Media/Lampiran"
+
+#: modules/aioseop_sitemap.php:190
+msgid "Maximum Posts Per Sitemap Page"
+msgstr "Jumlah pos maksimal untuk setiap halaman Sitemap"
+
+#: modules/aioseop_sitemap.php:208
+msgid "Include Date Archive Pages"
+msgstr "Sertakan Tanggal dalam Halaman Arsip"
+
+#: inc/commonstrings.php:74 admin/class-aioseop-helper.php:765
+msgid "Use page slugs or page IDs, separated by commas, to exclude pages from the sitemap."
+msgstr "Gunakan slug halaman atau ID halaman, dipisahkan dengan koma, untuk mengecualikan halaman dari sitemap."
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s), and display the error code.
+#: modules/aioseop_sitemap.php:1864
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, error code %3$s."
+msgstr "Gagal memberitahukan %1$s tentang perubahan pada sitemap Anda pada %2$s, kode kesalahan %3$s."
+
+#. translators: Notifies the admin which sitemaps failed to notify with which
+#. search engine(s).
+#: modules/aioseop_sitemap.php:1868
+msgid "Failed to notify %1$s about changes to your sitemap at %2$s, unable to access via wp_remote_get()."
+msgstr "Gagal memberitahukan %1$s tentang perubahan pada sitemap Anda pada %2$s, tidak dapat mengakses lewat wp_remote_get()."
+
+#: modules/aioseop_sitemap.php:1486
+msgid "Rename Conflicting Files"
+msgstr "Ubah nama berkas yang konflik"
+
+#: modules/aioseop_sitemap.php:1428
+msgid "Warning: a static sitemap '%1$s' generated by %2$s %3$s on %4$s already exists that may conflict with dynamic sitemap generation."
+msgstr "Peringatan: sitemap statis '%1$s' yang dibuat oleh %2$s %3$s pada %4$s sudah ada dan mungkin akan menyebabkan konflik dengan pembuat sitemap dinamis."
+
+#. translators: Link to settings to disable "Discourage search engines from
+#. indexing this site".
+#: modules/aioseop_sitemap.php:1072
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your site."
+msgstr "Peringatan: pengaturan privasi Anda dikonfigurasi untuk meminta agar mesin pencari tidak mengindeks situs Anda; Anda bisa mengubahnya di %s untuk situs Anda."
+
+#: inc/commonstrings.php:73
+msgid "Entries from these taxonomy terms will be excluded from the sitemap."
+msgstr "Entri dari istilah taksonomi ini akan dikecualikan dari sitemap."
+
+#. translators: %1$s and %2$s are placeholders, which means that it should not
+#. be translated. They will be replaced with nouns in the application.
+#: inc/commonstrings.php:76 admin/class-aioseop-helper.php:773
+#: admin/class-aioseop-helper.php:774 admin/class-aioseop-helper.php:775
+#: admin/class-aioseop-helper.php:776 admin/class-aioseop-helper.php:777
+#: admin/class-aioseop-helper.php:780 admin/class-aioseop-helper.php:781
+#: admin/class-aioseop-helper.php:782 admin/class-aioseop-helper.php:783
+#: admin/class-aioseop-helper.php:784 admin/class-aioseop-helper.php:795
+#: admin/class-aioseop-helper.php:796 admin/class-aioseop-helper.php:803
+#: admin/class-aioseop-helper.php:804
+msgid "Manually set the %1$s of your %2$s."
+msgstr "Atur %1$s dari %2$s Anda secara manual."
+
+#: admin/display/notices/sitemap-indexes-notice.php:28
+msgid "Update Sitemap Settings"
+msgstr "Perbarui Pengaturan Sitemap"
+
+#. translators: This is the title of our Performance module.
+#. translators: the Performance module allows users to set certain performance
+#. related settings and check the status of their WordPress installation.
+#: modules/aioseop_performance.php:36 modules/aioseop_feature_manager.php:82
+msgid "Performance"
+msgstr "Performa"
+
+#. translators: "Multisite" or "WordPress Multisite" is a feature that allows
+#. users to create a network of websites. Leave this in English if there is no
+#. translation for this in your locale glossary.
+#: modules/aioseop_performance.php:342
+msgid "Multisite"
+msgstr "Multisitus"
+
+#: modules/aioseop_performance.php:338
+msgid "WordPress Version"
+msgstr "Versi WordPress"
+
+#. translators: "DB" is an abbreviation for "Database".
+#: modules/aioseop_performance.php:340
+msgid "WordPress DB Version"
+msgstr "Versi DB WordPress"
+
+#: modules/aioseop_performance.php:343
+msgid "Active Theme"
+msgstr "Tema Aktif"
+
+#. translators: The "PHP XML" part should not be translated.
+#: modules/aioseop_performance.php:333
+msgid "PHP XML support"
+msgstr "Dukungan PHP XML"
+
+#. translators: %s is a placeholder and should not be translated. It will be
+#. replaced with an e-mail address.
+#: modules/aioseop_performance.php:441
+msgid "Failed to send to %s."
+msgstr "Gagal mengirim ke %s."
+
+#. translators: %s is a placeholder and should not be translated. It will be
+#. replaced with an e-mail address.
+#: modules/aioseop_performance.php:437
+msgid "Sent to %s."
+msgstr "Dikirim ke %s."
+
+#. translators: The "PHP IPTC" part should not be translated.
+#: modules/aioseop_performance.php:331
+msgid "PHP IPTC support"
+msgstr "Dukungan PHP IPTC"
+
+#: modules/aioseop_robots.php:101
+msgid "Create a Robots.txt File"
+msgstr "Buat File Robots.txt"
+
+#: inc/commonstrings.php:61 admin/class-aioseop-helper.php:754
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Pilih arsip taksonomi mana ingin ditampilkan pada sitemap"
+
+#: inc/admin/views/class-aioseop-about.php:402 modules/aioseop_sitemap.php:163
+#: modules/aioseop_sitemap.php:1018
+msgid "XML Sitemap"
+msgstr "Sitemap XML"
+
+#: modules/aioseop_performance.php:273 modules/aioseop_performance.php:278
+#: modules/aioseop_performance.php:283 modules/aioseop_performance.php:292
+msgid "Yes"
+msgstr "Ya"
+
+#: modules/aioseop_performance.php:275 modules/aioseop_performance.php:280
+#: modules/aioseop_performance.php:285 modules/aioseop_performance.php:294
+msgid "No"
+msgstr "Tidak"
+
+#: modules/aioseop_opengraph.php:415 modules/aioseop_opengraph.php:429
+msgid "Summary"
+msgstr "Rangkuman"
+
+#: admin/display/general-metaboxes.php:164
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Baru memulai? Baca Panduan Pemula"
+
+#: aioseop_class.php:5270
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:5338 aioseop_class.php:5352
+msgid "Edit SEO"
+msgstr "Edit SEO"
+
+#: modules/aioseop_feature_manager.php:202
+msgid "Update Features"
+msgstr "Pembaruan Fitur"
+
+#: inc/aioseop_functions.php:292 inc/aioseop_functions.php:300
+msgid "Save"
+msgstr "Simpan"
+
+#. translators: This is the base URL (e.g. "examplewebsite.com") of the
+#. website.
+#: modules/aioseop_performance.php:335
+msgid "Site URL"
+msgstr "URL Situs"
+
+#. translators: This is the URL of the homepage (e.g.
+#. "examplewebsite.com/home") of the website.
+#: modules/aioseop_performance.php:337
+msgid "Home URL"
+msgstr "URL Beranda"
+
+#: aioseop_class.php:1147
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: modules/aioseop_performance.php:444
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Kesalahan: silakan masukkan alamat e-mail sebelum mengirim."
+
+#: modules/aioseop_performance.php:467 build/aioseop-link.js:6
+msgid "Submit"
+msgstr "Kirim"
+
+#. translators: This is the text of a button that can be clicked. Therefore,
+#. "E-mail" is used as a verb in this context.
+#: modules/aioseop_performance.php:465
+msgid "E-mail debug information"
+msgstr "Informasi debug e-mail"
+
+#: modules/aioseop_robots.php:48
+msgid "User Agent"
+msgstr "Agen Pengguna"
+
+#: modules/aioseop_robots.php:64
+msgid "Directory Path"
+msgstr "Alamat Direktori"
+
+#: modules/aioseop_robots.php:72
+msgid "Add Rule"
+msgstr "Tambah Aturan"
+
+#: inc/commonstrings.php:59 admin/class-aioseop-helper.php:752
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Memungkinkan Anda untuk menentukan jumlah maksimum postingan dalam sitemap (hingga 50.000)"
+
+#: inc/commonstrings.php:57 admin/class-aioseop-helper.php:750
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "Beritahu mesin pencari berdasarkan jadwal yang dipilih, dan juga perbarui Sitemap statis setiap hari jika sedang dipakai. (fitur ini memakai WP-Crop, jadi pastikan ini bekerja dengan benar pada server Anda juga)"
+
+#: aioseop_class.php:1206 modules/aioseop_opengraph.php:653
+msgid "Advanced Settings"
+msgstr "Pengaturan Lanjutan"
+
+#. translators: This is the text of a button that allows users to reset all
+#. settings across the entire plugin to their default values.
+#: aioseop_class.php:3876
+msgid "Reset ALL Settings to Defaults"
+msgstr "Atur Ulang SEMUA Pengaturan menjadi Default"
+
+#. translators: This is the text of a button that allows users to reset the
+#. General Settings to their default values.
+#: aioseop_class.php:3870
+msgid "Reset General Settings to Defaults"
+msgstr "Atur Ulang Pengaturan Umum menjadi Default"
+
+#: admin/display/general-metaboxes.php:47
+msgid "Reset Dismissed Notices"
+msgstr "Atur Ulang Pemberitahuan yang Ditolak"
+
+#: aioseop_class.php:965 modules/aioseop_opengraph.php:546
+msgid "UPGRADE TO PRO VERSION"
+msgstr "UPGADE KE VERSI PRO"
+
+#: admin/display/general-metaboxes.php:115
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Bergabunglah ke daftar milis kami untuk tips, trik, dan rahasia-rahasia WordPress."
+
+#: admin/display/general-metaboxes.php:117
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Daftar sekarang dan dapatkan salinan gratis e-book 5 Tips SEO untuk WordPress (senilai $39)."
+
+#: admin/display/general-metaboxes.php:148
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "Forum Dukungan Plugin All in One SEO Pro "
+
+#: admin/display/general-metaboxes.php:159
+msgid "Watch video tutorials"
+msgstr "Tonton video tutorial"
+
+#: inc/commonstrings.php:63 admin/class-aioseop-helper.php:756
+msgid "Include Author Archives in your sitemap."
+msgstr "Sertakan Arsip Penulis dalam Sitemap Anda"
+
+#: inc/commonstrings.php:62 admin/class-aioseop-helper.php:755
+msgid "Include Date Archives in your sitemap."
+msgstr "Sertakan Tanggalan Arsip pada Sitemap. "
+
+#: aioseop_class.php:5561
+msgid "Join Our Mailing List"
+msgstr "Bergabunglah ke Daftar Milis Kami"
+
+#. translators: This is an action link users can click to open our premium
+#. support forum.
+#: class-aioseop-core.php:658 aioseop_class.php:5553
+msgid "Support"
+msgstr "Dukungan"
+
+#. translators: This string is used as an action link which users can click on
+#. to view the relevant documentation on our website.
+#: aioseop_class.php:5613 admin/aioseop_module_class.php:2281
+#: admin/aioseop_module_class.php:2696 admin/aioseop_module_class.php:3070
+msgid "Help"
+msgstr "Bantuan"
+
+#. translators: This is the name of the main tab of the All in One SEO Pack
+#. meta box that appears on the Edit screen.
+#: aioseop_class.php:5208
+msgid "Main Settings"
+msgstr "Pengaturan Utama"
+
+#. translators: the Feature Manager allows users to (de)activate other modules
+#. of the plugin.
+#: modules/aioseop_feature_manager.php:35
+msgid "Feature Manager"
+msgstr "Pengelola Fitur"
+
+#. translators: the XML Sitemaps module allows users to generate a sitemap in
+#. .xml format for their website and submit it to search engines such as
+#. Google, Bing and Yahoo.
+#: modules/aioseop_feature_manager.php:42
+msgid "XML Sitemaps"
+msgstr "Sitemap XML"
+
+#: modules/aioseop_feature_manager.php:43
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Buat dan kelola Sitemap XML Anda menggunakan fitur ini dan kirim Sitemap XML Anda ke Google, Bing/Yahoo dan Ask.com"
+
+#. translators: the Social Meta module allows users to add Open Graph (OG:)
+#. meta tags to their site's post/pages to control the appearance of them when
+#. shared on social media networks like Facebook and Twitter.
+#: modules/aioseop_opengraph.php:44 modules/aioseop_feature_manager.php:49
+msgid "Social Meta"
+msgstr "Meta Sosial"
+
+#. translators: the Robots.txt module allows users to provide instructions to
+#. web robots, e.g. search engine crawlers.
+#: modules/aioseop_feature_manager.php:56 modules/aioseop_robots.php:32
+#: modules/aioseop_robots.php:89
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:57
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Buat dan validasi file robots.txt Anda untuk memandu mesin pencari melalui situs Anda."
+
+#. translators: the File Editor module allows users to edit the robots.txt file
+#. or .htaccess file on their site.
+#: modules/aioseop_file_editor.php:20 modules/aioseop_feature_manager.php:62
+msgid "File Editor"
+msgstr "Editor File"
+
+#. translators: 'bots' refers to user agents/web robots that misbehave.
+#: modules/aioseop_feature_manager.php:77
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Hentikan bots yang bersifat buruk memperlambat situs Anda."
+
+#. translators: the Importer & Exporter module allows users to import/export
+#. their All in One SEO Pack settings for backup purposes or when migrating
+#. their site.
+#: modules/aioseop_importer_exporter.php:22
+#: modules/aioseop_feature_manager.php:68
+msgid "Importer & Exporter"
+msgstr "Pengimpor & Pengekspor"
+
+#: modules/aioseop_feature_manager.php:83
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Optimalkan performa yang berhubungan dengan SEO dan periksa status sistem Anda."
+
+#. translators: The Video Sitemap module allows users to generate a sitemap
+#. with video content in .xml format for their website and submit it to search
+#. engines such as Google, Bing and Yahoo.
+#: inc/commonstrings.php:119 modules/aioseop_sitemap.php:1037
+#: modules/aioseop_feature_manager.php:89
+msgid "Video Sitemap"
+msgstr "Sitemap Video"
+
+#. translators: this button deactivates all active modules of the plugin.
+#: modules/aioseop_feature_manager.php:205
+msgid "Reset Features"
+msgstr "Atur Ulang Fitur"
+
+#: admin/class-aioseop-helper.php:1041
+msgid ".htaccess editor"
+msgstr "Editor .htaccess"
+
+#: modules/aioseop_file_editor.php:31 modules/aioseop_file_editor.php:47
+msgid "Edit .htaccess"
+msgstr "Edit .htcaccess"
+
+#: modules/aioseop_file_editor.php:42
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:92
+msgid "Update .htaccess"
+msgstr "Perbarui .htaccess"
+
+#: inc/commonstrings.php:85 inc/aioseop_functions.php:227
+msgid "SEO Title"
+msgstr "Judul SEO"
+
+#: inc/commonstrings.php:86 inc/aioseop_functions.php:228
+msgid "SEO Description"
+msgstr "Deskripsi SEO"
+
+#: inc/commonstrings.php:87 inc/aioseop_functions.php:230
+msgid "SEO Keywords"
+msgstr "Kata-kata Kunci SEO"
+
+#: inc/aioseop_functions.php:290 inc/aioseop_functions.php:857
+#: build/aioseop-link.js:6
+msgid "Edit"
+msgstr "Edit"
+
+#. translators: %s is replaced with a content type such as Post, Page, etc.
+#: inc/commonstrings.php:79 inc/aioseop_functions.php:291
+#: admin/class-aioseop-helper.php:214 admin/class-aioseop-helper.php:217
+#: admin/class-aioseop-helper.php:219 admin/class-aioseop-helper.php:221
+#: admin/class-aioseop-helper.php:223 admin/class-aioseop-helper.php:225
+#: admin/class-aioseop-helper.php:235 admin/class-aioseop-helper.php:237
+#: admin/class-aioseop-helper.php:239 admin/class-aioseop-helper.php:338
+#: admin/class-aioseop-helper.php:467 admin/class-aioseop-helper.php:488
+msgid "Post"
+msgstr "Pos"
+
+#: inc/aioseop_functions.php:293 inc/aioseop_functions.php:301
+msgid "Cancel"
+msgstr "Batalkan"
+
+#: inc/aioseop_functions.php:295 inc/aioseop_functions.php:302
+#: inc/admin/views/class-aioseop-about.php:82
+msgid "Please wait..."
+msgstr "Mohon tunggu..."
+
+#: inc/aioseop_functions.php:296
+msgid "Slug may not be empty!"
+msgstr "Slug tidak boleh kosong!"
+
+#: inc/aioseop_functions.php:297
+msgid "Revisions"
+msgstr "Revisi"
+
+#: inc/aioseop_functions.php:298
+msgid "Insert time"
+msgstr "Masukkan waktu"
+
+#: inc/aioseop_functions.php:411
+msgid "Unauthorized access; try reloading the page."
+msgstr "Akses tanpa izin; coba memuat ulang halaman."
+
+#. translators: %s is a placeholder and will be replaced with a number.
+#: inc/aioseop_functions.php:559
+msgid "Row %s not found; no rows were deleted."
+msgstr "Baris %s tidak ditemukan; tidak ada baris yang dihapus."
+
+#: inc/aioseop_functions.php:629
+msgid "Duplicate %s Meta"
+msgstr "Salin Meta %s"
+
+#: inc/aioseop_functions.php:642
+msgid "What Does This Mean?"
+msgstr "Apa Artinya Ini?"
+
+#: inc/aioseop_functions.php:656
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Silakan merujuk ke dokumen dari setiap alat untuk bantuan penggunaannya untuk men-debug meta sosial Anda."
+
+#: modules/aioseop_importer_exporter.php:38
+msgid "Export Settings"
+msgstr "Ekspor Pengaturan"
+
+#: modules/aioseop_importer_exporter.php:480
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Peringatan:</b> Pos berikut tidak ditemukan: <b>\"%s\"</b>"
+
+#. translators: This message confirms that the options have been reset.
+#: admin/aioseop_module_class.php:2917
+msgid "Options Reset."
+msgstr "Atur Ulang Pilihan."
+
+#: modules/aioseop_sitemap.php:1301 admin/aioseop_module_class.php:2913
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Pemeriksaan Keamanan - Jika Anda seharusnya tidak menerima ini, log out dan log in kembali ke WordPress"
+
+#: admin/aioseop_module_class.php:3030
+msgid "Update Options"
+msgstr "Perbarui Pilihan"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Activity"
+msgstr "Aktivitas"
+
+#: modules/aioseop_opengraph.php:50
+msgid "Sport"
+msgstr "Olahraga"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Company"
+msgstr "Perusahaan"
+
+#: modules/aioseop_opengraph.php:55
+msgid "Cafe"
+msgstr "Kafe"
+
+#: modules/aioseop_opengraph.php:56
+msgid "Hotel"
+msgstr "Hotel"
+
+#: modules/aioseop_opengraph.php:57
+msgid "Restaurant"
+msgstr "Restoran"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Cause"
+msgstr "Sebab"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Sports League"
+msgstr "Liga Olahraga"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Sports Team"
+msgstr "Tim Olahraga"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Band"
+msgstr "Band"
+
+#: modules/aioseop_opengraph.php:66
+msgid "Government"
+msgstr "Pemerintah"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Non Profit"
+msgstr "Nonprofit"
+
+#: modules/aioseop_opengraph.php:68
+msgid "School"
+msgstr "Sekolah"
+
+#: modules/aioseop_opengraph.php:69
+msgid "University"
+msgstr "Universitas"
+
+#: modules/aioseop_opengraph.php:72
+msgid "Actor"
+msgstr "Aktor"
+
+#: modules/aioseop_opengraph.php:73
+msgid "Athlete"
+msgstr "Atlet"
+
+#: modules/aioseop_opengraph.php:74
+msgid "Author"
+msgstr "Penulis"
+
+#: modules/aioseop_opengraph.php:75
+msgid "Director"
+msgstr "Direktur"
+
+#: modules/aioseop_opengraph.php:76
+msgid "Musician"
+msgstr "Musisi"
+
+#: modules/aioseop_opengraph.php:77
+msgid "Politician"
+msgstr "Politikus"
+
+#: modules/aioseop_opengraph.php:78
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/aioseop_opengraph.php:79
+msgid "Public Figure"
+msgstr "Tokoh Masyarakat"
+
+#: modules/aioseop_opengraph.php:82 admin/aioseop_module_class.php:2556
+msgid "City"
+msgstr "Kota"
+
+#: modules/aioseop_opengraph.php:83 admin/aioseop_module_class.php:2562
+msgid "Country"
+msgstr "Negara"
+
+#: modules/aioseop_opengraph.php:85
+msgid "State Province"
+msgstr "Provinsi"
+
+#: modules/aioseop_opengraph.php:88
+msgid "Album"
+msgstr "Album"
+
+#: modules/aioseop_opengraph.php:89
+msgid "Book"
+msgstr "Buku"
+
+#: modules/aioseop_opengraph.php:90
+msgid "Drink"
+msgstr "Minuman"
+
+#: modules/aioseop_opengraph.php:91
+msgid "Food"
+msgstr "Makanan"
+
+#: modules/aioseop_opengraph.php:92
+msgid "Game"
+msgstr "Permainan"
+
+#: modules/aioseop_opengraph.php:93
+msgid "Movie"
+msgstr "Film"
+
+#: modules/aioseop_opengraph.php:94
+msgid "Product"
+msgstr "Produk"
+
+#: modules/aioseop_opengraph.php:95
+msgid "Song"
+msgstr "Lagu"
+
+#: modules/aioseop_opengraph.php:96
+msgid "TV Show"
+msgstr "Acara TV"
+
+#: modules/aioseop_opengraph.php:97
+msgid "Episode"
+msgstr "Episode"
+
+#: modules/aioseop_opengraph.php:100
+msgid "Article"
+msgstr "Artikel"
+
+#: modules/aioseop_opengraph.php:101
+msgid "Website"
+msgstr "Situs Web"
+
+#: admin/class-aioseop-helper.php:917
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Jalankan shortcode yang muncul di judul tag meta sosial."
+
+#: admin/class-aioseop-helper.php:918
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Jalankan shortcode yang muncul di deskripsi tag meta sosial."
+
+#: admin/class-aioseop-helper.php:886
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Nama Situs adalah nama yang digunakan untuk mengidentifikasi situs web Anda."
+
+#: admin/class-aioseop-helper.php:887
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Judul Beranda adalah judul Open Graph untuk beranda Anda."
+
+#: admin/class-aioseop-helper.php:888
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Deskripsi Beranda adalah deskripsi Open Graph untuk beranda Anda."
+
+#: admin/class-aioseop-helper.php:889
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Gambar Beranda adalah gambar Open Graph untuk beranda Anda."
+
+#: admin/class-aioseop-helper.php:892
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Pilihan ini memungkinkan Anda untuk memilih gambar mana yang akan ditampilkan secara default untuk gambar Open Graph. Anda bisa menimpanya di pos tersendiri."
+
+#: admin/class-aioseop-helper.php:893
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Pilihan ini memungkinkan Anda untuk kembali ke gambar default jika tidak ada gambar yang ditemukan di atas."
+
+#: admin/class-aioseop-helper.php:894
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Pilihan ini mengatur gambar default yang bisa digunakan untuk gambar Open Graph. Anda bisa mengunggah sebuah gambar, memilih sebuah gambar dari Perpustakaan Media Anda atau memasukkan URL dari sebuah gambar disini."
+
+#: admin/class-aioseop-helper.php:895
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Pilihan ini memungkinkan Anda untuk mengatur lebar default untuk gambar-gambar Anda, untuk yang belum ditentukan."
+
+#: admin/class-aioseop-helper.php:896
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Pilihan in memungkinkan Anda untuk mengatur tinggi default untuk gambar-gambar Anda, untuk yang belum ditentukan."
+
+#: admin/class-aioseop-helper.php:924
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Pilihan ini memungkinkan Anda untuk memilih gambar Open Graph yang akan digunakan untuk Halaman atau Post ini, menimpa pengaturan defaultnya."
+
+#: admin/class-aioseop-helper.php:926
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Masukkan lebar gambar Open Graph Anda dalam piksel (contoh: 600)."
+
+#: admin/class-aioseop-helper.php:927
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Masukkan tinggi gambar Open Graph Anda dalam piksel (contoh: 600)."
+
+#: admin/class-aioseop-helper.php:929
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Masukkan lebar video Open Graph Anda dalam piksel (contoh: 600)."
+
+#: admin/class-aioseop-helper.php:930
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Masukkan tinggi video Open Graph Anda dalam piksel (contoh: 600)."
+
+#: admin/class-aioseop-helper.php:928
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Pilihan ini memungkinkan Anda untuk menentukan sebuah link ke video Open Graph yang digunakan pada halaman atau pos ini."
+
+#: admin/class-aioseop-helper.php:912
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Masukkan nama pengguna Twitter yang berhubungan dengan situs web Anda disini."
+
+#: admin/class-aioseop-helper.php:914
+msgid "Enter the name of your website here."
+msgstr "Masukkan nama situs web Anda disini."
+
+#: admin/class-aioseop-helper.php:913
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Memungkinkan penulis-penulis Anda untuk diidentifikasi dengan nama pengguna Twitter mereka sebagai pembuat konten pada kartu Twitter untuk pos mereka."
+
+#: admin/class-aioseop-helper.php:903
+msgid "Use keywords in generated article tags."
+msgstr "Gunakan kata kunci dalam tag-tag artikel yang telah dibuat."
+
+#: admin/class-aioseop-helper.php:905
+msgid "Use post tags in generated article tags."
+msgstr "Gunakan tag pos dalam tag-tag artikel yang telah dibuat."
+
+#: admin/class-aioseop-helper.php:922
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Ini adalah judul Open Graph untuk halaman atau pos ini."
+
+#: admin/class-aioseop-helper.php:923
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Ini adalah deskripsi Open Graph untuk halaman atau pos ini."
+
+#: modules/aioseop_opengraph.php:261
+msgid "Scan Header"
+msgstr "Pindai Header"
+
+#: modules/aioseop_opengraph.php:280
+msgid "Run Shortcodes In Title"
+msgstr "Jalankan Shortcode di Judul"
+
+#: modules/aioseop_opengraph.php:266
+msgid "Use AIOSEO Title and Description"
+msgstr "Gunakan Judul dan Deksripsi AIOSEO "
+
+#: admin/class-aioseop-helper.php:908
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Memungkinkan penulis-penulis Anda untuk diidentifikasi dengan halaman Facebook mereka sebagai penulis konten pada meta Open Graph untuk artikel mereka."
+
+#: admin/class-aioseop-helper.php:907
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Hubungkan artikel ke halaman Facebook yang berhubungan dengan situs web Anda."
+
+#: admin/class-aioseop-helper.php:934
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Meta Open Graph ini memungkinkan Anda untuk menambahkan daftar kata kunci yang paling mendeskripsikan konten ini."
+
+#: modules/aioseop_opengraph.php:283
+msgid "Run Shortcodes In Description"
+msgstr "Jalankan Shortcode di Deskripsi"
+
+#: modules/aioseop_opengraph.php:286
+msgid "Site Name"
+msgstr "Nama Situs"
+
+#. translators: This is a setting where users can enter the title for their
+#. homepage.
+#: aioseop_class.php:258 modules/aioseop_opengraph.php:291
+msgid "Home Title"
+msgstr "Judul Beranda"
+
+#. translators: This is a setting where users can enter the description for
+#. their homepage.
+#: aioseop_class.php:269 modules/aioseop_opengraph.php:306
+msgid "Home Description"
+msgstr "Deskripsi Beranda"
+
+#: modules/aioseop_opengraph.php:321
+msgid "Home Image"
+msgstr "Gambar Beranda"
+
+#: modules/aioseop_opengraph.php:332
+msgid "Default Image"
+msgstr "Gambar Default"
+
+#: modules/aioseop_opengraph.php:329
+msgid "Select OG:Image Source"
+msgstr "Pilih OG:Sumber Gambar"
+
+#: modules/aioseop_opengraph.php:333
+msgid "Featured Image"
+msgstr "Gambar Utama"
+
+#: modules/aioseop_opengraph.php:334
+msgid "First Attached Image"
+msgstr "Gambar Terlampir Pertama"
+
+#: modules/aioseop_opengraph.php:335
+msgid "First Image In Content"
+msgstr "Gambar Pertama Dalam Konten"
+
+#: modules/aioseop_opengraph.php:337
+msgid "Post Author Image"
+msgstr "Gambar Penulis Pos"
+
+#: modules/aioseop_opengraph.php:338
+msgid "First Available Image"
+msgstr "Gambar Pertama yang Tersedia"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default OG:Image"
+msgstr "OG:Gambar Default"
+
+#: modules/aioseop_opengraph.php:347
+msgid "Default Image Width"
+msgstr "Lebar Default Gambar"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Default Image Height"
+msgstr "Tinggi Default Gambar"
+
+#: modules/aioseop_opengraph.php:362
+msgid "Image"
+msgstr "Gambar"
+
+#: modules/aioseop_opengraph.php:369
+msgid "Custom Image"
+msgstr "Gambar Kustom"
+
+#: modules/aioseop_opengraph.php:373
+msgid "Specify Image Width"
+msgstr "Tentukan Lebar Gambar"
+
+#: modules/aioseop_opengraph.php:378
+msgid "Specify Image Height"
+msgstr "Tentukan Tinggi Gambar"
+
+#: modules/aioseop_opengraph.php:383
+msgid "Custom Video"
+msgstr "Video Kustom"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Specify Video Width"
+msgstr "Tentukan Lebar Video"
+
+#: modules/aioseop_opengraph.php:399
+msgid "Specify Video Height"
+msgstr "Tentukan Tinggi Video"
+
+#: modules/aioseop_opengraph.php:411
+msgid "Default Twitter Card"
+msgstr "Kartu Twitter Default"
+
+#: modules/aioseop_opengraph.php:438
+msgid "Twitter Site"
+msgstr "Situs Twitter"
+
+#: modules/aioseop_opengraph.php:443
+msgid "Show Twitter Author"
+msgstr "Tampilkan Penulis Twitter"
+
+#: modules/aioseop_opengraph.php:446
+msgid "Twitter Domain"
+msgstr "Domain Twitter"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Use Keywords In Article Tags"
+msgstr "Gunakan Kata Kunci di Tag Artikel"
+
+#: modules/aioseop_opengraph.php:463
+msgid "Use Categories In Article Tags"
+msgstr "Gunakan Kategori di Tag Artikel"
+
+#: modules/aioseop_opengraph.php:468
+msgid "Use Post Tags In Article Tags"
+msgstr "Gunakan Tag Pos dalam Tag Artikel"
+
+#: modules/aioseop_opengraph.php:506
+msgid "Facebook Debug"
+msgstr "Debug Facebook"
+
+#: modules/aioseop_opengraph.php:513
+msgid "Debug This Post"
+msgstr "Debug Pos Ini"
+
+#: modules/aioseop_opengraph.php:516
+msgid "Article Section"
+msgstr "Bagian Artikel"
+
+#: modules/aioseop_opengraph.php:522
+msgid "Article Tags"
+msgstr "Tag Artikel"
+
+#: modules/aioseop_opengraph.php:528
+msgid "Show Facebook Publisher on Articles"
+msgstr "Tampilkan Penerbit Facebook pada Artikel"
+
+#: modules/aioseop_opengraph.php:533
+msgid "Show Facebook Author on Articles"
+msgstr "Tampilkan Penulis Facebook pada Artikel"
+
+#: aioseop_class.php:649
+msgid "Person"
+msgstr "Orang"
+
+#: aioseop_class.php:648
+msgid "Organization"
+msgstr "Organisasi"
+
+#: modules/aioseop_opengraph.php:592
+msgid "Social Settings"
+msgstr "Pengaturan Sosial"
+
+#: modules/aioseop_opengraph.php:628
+msgid "Image Settings"
+msgstr "Pengaturan Gambar"
+
+#: modules/aioseop_opengraph.php:633
+msgid "Facebook Settings"
+msgstr "Pengaturan Facebook"
+
+#: modules/aioseop_opengraph.php:648
+msgid "Twitter Settings"
+msgstr "Pengaturan Twitter"
+
+#: modules/aioseop_opengraph.php:659
+msgid "Scan Social Meta"
+msgstr "Pindai Meta Sosial"
+
+#: modules/aioseop_opengraph.php:810
+msgid "Default "
+msgstr "Default "
+
+#: modules/aioseop_opengraph.php:965 modules/aioseop_opengraph.php:966
+msgid "Scan Now"
+msgstr "Pindai Sekarang"
+
+#: admin/class-aioseop-helper.php:724
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Pengaturan ini memungkinkan Anda untuk menaikkan batasan memori PHP anda ke nilai yang masuk akal. Catatan: inti Wordpress dan plugin WordPress lain juga dapat mengganti nilai batas memori."
+
+#: modules/aioseop_opengraph.php:968
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Pindai Situs Anda untuk mencari duplikat tag meta sosial."
+
+#: admin/class-aioseop-helper.php:725
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Pengaturan ini memungkinkan Anda untuk menaikkan waktu eksekusi PHP Anda ke nilai yang masuk akal."
+
+#: admin/class-aioseop-helper.php:726
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Gunakan buffering output untuk memastikan bahwa judul akan ditulis ulang. Aktifkan pilihan ini jika Anda menemui masalah dengan tag judul yang diatur oleh tema Anda atau plugin lain."
+
+#. translators: This is the name of a setting which allows users to increase
+#. their PHP memory limit.
+#: modules/aioseop_performance.php:44
+msgid "Raise memory limit"
+msgstr "Naikkan batas memori"
+
+#. translators: This a dropdown value for the "Raise memory limit" setting. If
+#. this is selected, All in One SEO Pack will not override the PHP memory limit
+#. and use the default system value.
+#: modules/aioseop_performance.php:49 modules/aioseop_performance.php:62
+msgid "Use the system default"
+msgstr "Gunakan default sistem"
+
+#. translators: This is the name of a setting which allows users to increase
+#. their PHP execution time limit.
+#: modules/aioseop_performance.php:58
+msgid "Raise execution time"
+msgstr "Naikkan waktu eksekusi"
+
+#: modules/aioseop_performance.php:67
+msgid "No limit"
+msgstr "Tidak ada batas"
+
+#. translators: This is the header of a table in which All in One SEO Pack
+#. displays data about the user's WordPress installation and server.
+#: modules/aioseop_performance.php:109
+msgid "System Status"
+msgstr "Status Sistem"
+
+#: modules/aioseop_performance.php:239
+msgid "Not set"
+msgstr "Tidak diatur"
+
+#: modules/aioseop_performance.php:242
+msgid "On"
+msgstr "Nyala"
+
+#: modules/aioseop_performance.php:244
+msgid "Off"
+msgstr "Mati"
+
+#. translators: "N/A" is an abbreviation for "Non Applicable".
+#: modules/aioseop_performance.php:250 modules/aioseop_performance.php:255
+#: modules/aioseop_performance.php:260 modules/aioseop_performance.php:265
+#: modules/aioseop_performance.php:270 modules/aioseop_performance.php:297
+msgid "N/A"
+msgstr "Tidak Tersedia"
+
+#: modules/aioseop_performance.php:312
+msgid "Operating System"
+msgstr "Sistem Operasi"
+
+#: modules/aioseop_performance.php:313
+msgid "Server"
+msgstr "Server"
+
+#. translators: "Memory" in this context refers to RAM memory.
+#: modules/aioseop_performance.php:315
+msgid "Memory usage"
+msgstr "Pemakaian memori"
+
+#. translators: "MYSQL" is the name of a database software and should not be
+#. translated.
+#: modules/aioseop_performance.php:317
+msgid "MYSQL Version"
+msgstr "Versi MYSQL"
+
+#. translators: "SQL" is a programming language that is used to store or
+#. retrieve data from databases and should not be translated.
+#: modules/aioseop_performance.php:319
+msgid "SQL Mode"
+msgstr "Mode SQL"
+
+#: modules/aioseop_performance.php:320
+msgid "PHP Version"
+msgstr "Versi PHP"
+
+#. translators: This is a setting in the PHP interpreter of the server. Leave
+#. this untranslated if there's no proper translation for this.
+#: modules/aioseop_performance.php:322
+msgid "PHP Allow URL fopen"
+msgstr "PHP Mengizinkan URL fopen"
+
+#. translators: "Memory" in this context refers to RAM memory.
+#: modules/aioseop_performance.php:324
+msgid "PHP Memory Limit"
+msgstr "Batas Memori PHP"
+
+#: modules/aioseop_performance.php:325
+msgid "PHP Max Upload Size"
+msgstr "Ukuran Unggah Maksimum PHP"
+
+#: modules/aioseop_performance.php:326
+msgid "PHP Max Post Size"
+msgstr "Ukuran Post Maksimum PHP"
+
+#: modules/aioseop_performance.php:327
+msgid "PHP Max Script Execute Time"
+msgstr "Waktu Eksekusi Skrip Maksimum PHP"
+
+#. translators: The "PHP Exif" part should not be translated.
+#: modules/aioseop_performance.php:329
+msgid "PHP Exif support"
+msgstr "Dukungan Exif PHP"
+
+#: admin/class-aioseop-helper.php:933
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Meta Open Graph ini memungkinkan Anda menambahkan nama bagian yang umum yang paling mendeskripsikan konten ini."
+
+#: aioseop_class.php:1181
+msgid "Noindex Settings"
+msgstr "Pengaturan Noindex"
+
+#: admin/class-aioseop-helper.php:897
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Masukkan nama field kustom (atau beberapa nama field, dipisahkan oleh koma) untuk menggunakan field tersebut untuk menentukan gambar Open Graph pada halaman atau pos."
+
+#: modules/aioseop_opengraph.php:336
+msgid "Image From Custom Field"
+msgstr "Gambar Dari Field Kustom"
+
+#: modules/aioseop_opengraph.php:357
+msgid "Use Custom Field For Image"
+msgstr "Gunakan Field Kustom untuk Gambar"
+
+#: admin/class-aioseop-helper.php:948
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Pilih nilai default yang paling mendeskripsikan konten dari jenis pos Anda."
+
+#: modules/aioseop_opengraph.php:499
+msgid "Facebook Object Type"
+msgstr "Jenis Objek Facebook"
+
+#: modules/aioseop_opengraph.php:1815
+msgid "Object Type"
+msgstr "Jenis Objek"
+
+#: admin/class-aioseop-helper.php:931
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Pilih jenis Open Graph yang paling mendeskripsikan konten dari halaman atau pos ini."
+
+#: inc/commonstrings.php:60 admin/class-aioseop-helper.php:753
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Pilih Jenis Pos mana yang ingin ditampilkan pada Sitemap."
+
+#: modules/aioseop_opengraph.php:425
+msgid "Twitter Card Type"
+msgstr "Jenis Kartu Twtiter"
+
+#. translators: This message is shown when a form could not be submitted due to
+#. a verification error (e.g. when a field is required and is still blank).
+#: modules/aioseop_performance.php:389
+msgid "Form submission error: verification check failed."
+msgstr "Kesalahan pengisian formulir: pemeriksaan verifikasi gagal."
+
+#: modules/aioseop_performance.php:430
+msgid "SFWD Debug Mail From Site %s."
+msgstr "Debug SFWD Surat Dari Situs %s."
+
+#: inc/commonstrings.php:65 admin/class-aioseop-helper.php:758
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Menempatkan sebuah link ke Sitemap.xml Anda ke dalam file Robots.txt virtual Anda."
+
+#: aioseop_class.php:3966
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3965
+msgid "index"
+msgstr "index"
+
+#. translators: This indicates that the current post/page is using the default
+#. value for its post type, which is NOINDEX.
+#: aioseop_class.php:3964
+msgid "Default - noindex"
+msgstr "Default - noindex"
+
+#. translators: This indicates that the current post/page is using the default
+#. value for its post type, which is NOFOLLOW.
+#: aioseop_class.php:3973
+msgid "Default - nofollow"
+msgstr "Default - nofollow"
+
+#: aioseop_class.php:3974
+msgid "follow"
+msgstr "follow"
+
+#: aioseop_class.php:3975
+msgid "nofollow"
+msgstr "nofollow"
+
+#: inc/aioseop_functions.php:638
+msgid "No duplicate meta tags found."
+msgstr "Duplikat tag meta tidak ditemukan."
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Tidak ada modul lain yang sedang dimuat!"
+
+#: admin/class-aioseop-helper.php:932
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Tekan tombol ini agar Facebook mengambil kembali dan men-debug halaman ini."
+
+#: modules/aioseop_opengraph.php:416 modules/aioseop_opengraph.php:428
+msgid "Summary Large Image"
+msgstr "Rangkuman Gambar Besar"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Landmark"
+msgstr "Landmark"
+
+#: admin/class-aioseop-helper.php:925
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Pilihan ini memungkinkan Anda untuk mengunggah sebuah gambar untuk digunakan sebagai gambar Open Graph untuk halaman atau pos ini."
+
+#: admin/class-aioseop-helper.php:904
+msgid "Use categories in generated article tags."
+msgstr "Gunakan kategori dalam tag-tag artikel yang telah dibuat."
+
+#: inc/aioseop_functions.php:646
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "Anda sebaiknya menghindari tag meta sosial duplikat. Anda bisa menggunakan peralatan gratis berikut dari Facebook, Google dan Twitter untuk memvalidasi meta sosial Anda dan mencari kesalahan:"
+
+#: modules/aioseop_importer_exporter.php:102
+msgid "Export"
+msgstr "Ekspor"
+
+#: modules/aioseop_importer_exporter.php:31
+#: modules/aioseop_importer_exporter.php:96
+msgid "Import"
+msgstr "Impor"
+
+#: admin/class-aioseop-helper.php:911
+msgid "Select the default type of Twitter Card to display."
+msgstr "Pilih jenis default kartu Twitter untuk ditampilkan."
+
+#: admin/display/general-metaboxes.php:154
+msgid "View the Changelog"
+msgstr "Lihat Catatan Perubahan"
+
+#: admin/display/general-metaboxes.php:153
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "Catatan Perubahan Plugin All in One SEO Pro"
+
+#: inc/commonstrings.php:54 admin/class-aioseop-helper.php:576
+msgid "Click here for documentation on this setting"
+msgstr "Klik disini untuk dokumentasi pengaturan ini"
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: inc/aioseop_functions.php:644
+msgid "%s has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "%s telah mendeteksi bahwa ada plugin atau tema yang juga mengeluarkan tag meta sosial di situs Anda. Anda bisa menampilkan meta sosial ini di kode sumber situs Anda (lihat bantuan browser Anda untuk instruksi bagaimana cara menampilkan kode sumber)."
+
+#: modules/aioseop_importer_exporter.php:430
+msgid "<b>Warning:</b> Line not matched: <b>\"%1$s\"</b>, On Line: <b>%2$s</b>"
+msgstr "<b>Peringatan:</b> Baris tidak cocok: <b>\"%1$s\"</b>, Pada Baris: <b>%2$s</b>"
+
+#: modules/aioseop_opengraph.php:455
+msgid "Automatically Generate Article Tags"
+msgstr "Buat Tag Artikel secara otomatis"
+
+#: admin/class-aioseop-helper.php:902
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Buat tag artikel untuk artikel jenis Facebook secara otomatis jika tidak disediakan."
+
+#. translators: %1$s and %2$s are placeholders and should not be translated.
+#. %1$s is replaced with a number, %2$s is replaced with the name of an meta
+#. tag field (e.g; "Title", "Description", etc.).
+#: admin/aioseop_module_class.php:2612
+msgid " characters. Most search engines use a maximum of %1$s chars for the %2$s."
+msgstr "karakter. Sebagian besar mesin pencari memakai maksimum %1$s karakter untuk %2$s."
+
+#: inc/aioseop_functions.php:645
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in the Feature Manager."
+msgstr "Anda boleh memilih untuk memakai tag meta sosial yang dihasilkan oleh plugin atau tema lain. Jika demikian, maka Anda harus menonaktifkan fitur Meta Sosial ini di Pengelola Fitur."
+
+#. translators: %s is a placeholder, which means that it should not be
+#. translated. It will be replaced with the name of the plugin, All in One SEO
+#. Pack.
+#: admin/class-aioseop-helper.php:885
+msgid "Checking this box will use the Home Title and Home Description set in %s, General Settings as the Open Graph title and description for your home page."
+msgstr "Mencentang kotak ini akan memakai Judul Beranda dan Deskripsi Beranda yang diatur di %s, Pengaturan Umum sebagai judul dan deskripsi Open Graph untuk beranda Anda."
+
+#: aioseop_class.php:982 modules/aioseop_opengraph.php:490
+msgid "Description"
+msgstr "Deskripsi"
+
+#. translators: This is the name of a settings section where users can add
+#. verification codes of webmaster platforms such as Google Search Console,
+#. Bing Webmaster Tools, etc.
+#: aioseop_class.php:1142
+msgid "Webmaster Verification"
+msgstr "Verifikasi Webmaster"
+
+#. translators: This is the name of a settings section where users can control
+#. how All in One SEO Pack appears in the WordPress Administrator Panel.
+#: aioseop_class.php:1136
+msgid "Display Settings"
+msgstr "Pengaturan Tampilan"
+
+#: aioseop_class.php:1110
+msgid "Title Settings"
+msgstr "Pengaturan Judul"
+
+#: aioseop_class.php:1224
+msgid "Keyword Settings"
+msgstr "Pengaturan Kata Kunci"
+
+#: aioseop_class.php:1105 modules/aioseop_opengraph.php:623
+msgid "Home Page Settings"
+msgstr "Pengaturan Beranda"
+
+#. translators: This is a setting that allows users to disable Google Analytics
+#. tracking for the current post/page.
+#: aioseop_class.php:1082
+msgid "Disable Google Analytics"
+msgstr "Nonaktifkan Google Analytics"
+
+#. translators: This is a setting that allows users to disable All in One SEO
+#. Pack for the current post/page.
+#: aioseop_class.php:1078
+msgid "Disable on this page/post"
+msgstr "Nonaktifkan di halaman/pos ini"
+
+#: inc/commonstrings.php:53 admin/class-aioseop-helper.php:132
+#: admin/class-aioseop-helper.php:171 admin/class-aioseop-helper.php:207
+#: admin/class-aioseop-helper.php:245 admin/class-aioseop-helper.php:265
+#: admin/class-aioseop-helper.php:280 admin/class-aioseop-helper.php:297
+#: admin/class-aioseop-helper.php:308 admin/class-aioseop-helper.php:319
+#: admin/class-aioseop-helper.php:365 admin/class-aioseop-helper.php:380
+#: admin/class-aioseop-helper.php:458 admin/class-aioseop-helper.php:479
+#: admin/class-aioseop-helper.php:576 admin/class-aioseop-helper.php:1106
+#: admin/class-aioseop-helper.php:1154
+msgid "The following macros are supported:"
+msgstr "Makro yang didukung sebagai berikut:"
+
+#: admin/class-aioseop-helper.php:379
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "String ini akan ditambahkan di akhir/awal judul halaman indeks yang dihalamankan (seperti beranda atau halaman arsip)."
+
+#: admin/class-aioseop-helper.php:392
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Ini memungkinkan Anda untuk memilih layar mana yang menampilkan kolom Judul SEO, Kata kunci SEO dan Deskripsi SEO."
+
+#: admin/class-aioseop-helper.php:404
+msgid "Check to use advanced Google Analytics options."
+msgstr "Centang untuk menggunakan pilihan lanjutan Google Analytics."
+
+#: admin/class-aioseop-helper.php:408
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Ini mengaktifkan dukungan untuk Anonimisasi IP dalam Google Analytics."
+
+#: admin/class-aioseop-helper.php:1225
+msgid "Override the canonical URLs for this post."
+msgstr "Timpa URL kanonis untuk pos ini."
+
+#. translators: Some settings are either 'Enabled' or 'Disabled'. 'Activated'
+#. and 'Deactivated' mean the same.
+#: aioseop_class.php:285 aioseop_class.php:307 aioseop_class.php:329
+#: aioseop_class.php:339 aioseop_class.php:485 aioseop_class.php:620
+#: modules/aioseop_performance.php:79
+msgid "Enabled"
+msgstr "Diaktifkan"
+
+#. translators: Some settings are either 'Enabled' or 'Disabled'. 'Activated'
+#. and 'Deactivated' mean the same.
+#: aioseop_class.php:287 aioseop_class.php:308 aioseop_class.php:330
+#: aioseop_class.php:340 aioseop_class.php:486 aioseop_class.php:621
+#: modules/aioseop_performance.php:80
+msgid "Disabled"
+msgstr "Dinonaktifkan"
+
+#: admin/class-aioseop-helper.php:1231
+msgid "Disable SEO on this page."
+msgstr "Nonaktifkan SEO pada halaman ini."
+
+#: admin/class-aioseop-helper.php:1228
+msgid "Don't display this page in the sitemap."
+msgstr "Jangan tampilkan halaman ini di sitemap."
+
+#: admin/class-aioseop-helper.php:1232
+msgid "Disable Google Analytics on this page."
+msgstr "Nonaktifkan Google Analytics pada halaman ini."
+
+#. translators: This is a setting where users can enter the description format.
+#. The description format is the format All in One SEO Pack uses to rewrite the
+#. meta description tag.
+#: aioseop_class.php:400
+msgid "Description Format"
+msgstr "Format Deskripsi"
+
+#: inc/commonstrings.php:92
+msgid "Display Menu At The Top:"
+msgstr "Tampilkan Menu di atas:"
+
+#. translators: This is a setting that outputs basic Schema.org markup, also
+#. known as structured data, into the source code of each page.
+#: aioseop_class.php:616
+msgid "Use Schema.org Markup"
+msgstr "Gunakan Markup Schema.org"
+
+#: inc/news-sitemap-xsl.php:115 inc/admin/class-aioseop-link-attributes.php:43
+#: aioseop_class.php:976 modules/aioseop_opengraph.php:482
+msgid "Title"
+msgstr "Judul"
+
+#. translators: The preview snippet shows how the page will look like in the
+#. search results (title, meta description and permalink).
+#: aioseop_class.php:970
+msgid "Preview Snippet"
+msgstr "Pratinjau Potongan"
+
+#: aioseop_class.php:990
+msgid "Keywords (comma separated)"
+msgstr "Kata Kunci (dipisah dengan koma)"
+
+#. translators: This is a setting that users can enable to enter a custom
+#. canonical URL.
+#: aioseop_class.php:995
+msgid "Custom Canonical URL"
+msgstr "URL Kanonis Kustom"
+
+#: aioseop_class.php:1011
+msgid "Exclude From Sitemap"
+msgstr "Kecualikan Dari Sitemap"
+
+#: admin/class-aioseop-helper.php:407
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Tambahkan daftar domain tambahan untuk dilacak disini. Masukkan satu nama domain per baris tanpa http://."
+
+#: admin/class-aioseop-helper.php:410
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Kecualikan pengguna yang telah login dari pelacakan Google Analytics berdasarkan peran."
+
+#: admin/class-aioseop-helper.php:1222
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Judul kustom yang tampil di tag judul untuk halaman ini."
+
+#: admin/class-aioseop-helper.php:1221
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Pratinjau tampilan halaman ini pada hasil mesin pencari."
+
+#: admin/class-aioseop-helper.php:446
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Centang ini untuk tidak melindungi field postmeta internal untuk digunakan dengan XMLRPC. Jika Anda tidak tahu apa itu, biarkan ini tidak tercentang."
+
+#: admin/class-aioseop-helper.php:429
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Atur pengaturan default NOFOLLOW untuk tiap Jenis Post."
+
+#: admin/class-aioseop-helper.php:428
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Atur pengaturan default NOINDEX untuk tiap Jenis Post."
+
+#: admin/class-aioseop-helper.php:1227
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Centang kotak ini untuk meminta mesin pencari untuk tidak mengikuti link dari halaman ini."
+
+#: admin/class-aioseop-helper.php:405
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Masukkan nama domain Anda tanpa http:// untuk mengatur domain cookie Anda."
+
+#: admin/class-aioseop-helper.php:406
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Gunakan pilihan ini untuk mengaktifkan pelacakan beberapa domain sekaligus atau domain-domain tambahan."
+
+#: admin/class-aioseop-helper.php:409
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Ini mengaktifkan dukungan untuk Fitur Pengiklan Tampilan di Google Analytics."
+
+#: admin/class-aioseop-helper.php:403
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Masukkan ID Google Analytics Anda disini untuk melacak perilaku pengunjung di situs Anda menggunakan Google Analytics."
+
+#: admin/class-aioseop-helper.php:1226
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Centang kotak ini untuk meminta mesin pencari untuk tidak mengindeks halaman ini."
+
+#. translators: This is a setting where users can indicate that they are using
+#. a static page for their homepage.
+#: aioseop_class.php:303
+msgid "Use Static Front Page Instead"
+msgstr "Gunakan Halaman Depan Statis"
+
+#: admin/class-aioseop-helper.php:435
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks halaman 404."
+
+#: admin/class-aioseop-helper.php:445
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Centang ini untuk menghindari Deskripsi Anda terpotong, berarapun panjangnya."
+
+#: admin/class-aioseop-helper.php:432
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks Arsip Penulis. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:430
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks Arsip Kategori. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:438
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks halaman arsip Taksonomi. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:433
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks Arsip Tag. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:431
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks Arsip Tanggal. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:434
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks Halaman Pencarian. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:436
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengindeks halaman/pos yang dihalamankan. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:444
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Centang ini dan Deskripsi Meta Anda akan dihapus dari halaman 2 atau setelahnya dari konten yang dihalamankan."
+
+#: admin/class-aioseop-helper.php:437
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Centang ini untuk meminta mesin pencari agar tidak mengikuti link dari halaman/pos yang dihalamankan. Berguna untuk mencegah duplikasi konten."
+
+#: admin/class-aioseop-helper.php:450
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Apa yang Anda masukkan disini akan disalin kata demi kata ke header semua Pos. Anda dapat memasukkan header tambahan apapun yang Anda inginkan disini, bahkan referensi ke stylesheet."
+
+#: admin/class-aioseop-helper.php:451
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Apa yang Anda masukkan disini akan disalin kata demi kata ke header semua Halaman. Anda bisa memasukkan header tambahan apapun yang Anda inginkan disini, bahkan referensi ke stylesheet.\t"
+
+#: admin/class-aioseop-helper.php:452
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Apa yang Anda masukkan disini akan disalin kata demi kata ke header halaman depan jika Anda telah mengatur sebuah halaman statis pada Pengaturan, Bacaan, Tampilan Halaman Depan. Anda bisa memasukkan header tambahan apapun yang Anda inginkan disini, bahkan referensi ke stylesheet. Ini akan kembali menggunakan Header Tambahan Halaman jika Anda telah mengaturnya dan tidak memasukkan apapun disini."
+
+#: admin/class-aioseop-helper.php:453
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Apa yang Anda masukkan disini akan disalin kata demi kata ke header beranda jika Anda telah mengatur halaman depan untuk menampilkan pos terbaru pada Pengaturan, Bacaan. Ini juga akan disalin kata per kata ke header halaman Pos Jika Anda telah mengaturnya pada Pengaturan, Bacaan. Anda bisa memasukkan header tambahan apapun yang Anda inginkan disini, bahkan referensi ke stylesheet."
+
+#: admin/class-aioseop-helper.php:1224
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Daftar kata kunci yang paling penting (dipisahkan dengan koma) untuk halaman ini yang akan dituliskan sebagai kata kunci META."
+
+#: admin/class-aioseop-helper.php:412
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Ini mengaktifkan dukungan untuk Attribusi Link yang Ditingkatkan di Google Analytics."
+
+#: admin/class-aioseop-helper.php:413
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Ini mengaktifkan dukungan untuk Ecommerce yang Ditingkatkan di Google Analytics."
+
+#: admin/class-aioseop-helper.php:411
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Centang ini jika Anda ingin melacak link yang keluar menggunakan Google Analytics."
+
+#: admin/class-aioseop-helper.php:1223
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Deskripsi META untuk halaman ini. Ini akan menimpa deskripsi yang dihasilkan secara otomatis."
+
+#: admin/class-aioseop-helper.php:443
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Centang ini dan shortcode akan dieksekusi untuk deskripsi yang dihasilkan secara otomatis dari konten."
+
+#: admin/class-aioseop-helper.php:329
+msgid "This controls the format of Meta Descriptions. The following macros are supported:"
+msgstr "Ini mengontrol format Deskripsi Meta. Makro yang didukung sebagai berikut:"
+
+#: admin/class-aioseop-helper.php:127
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Mencentang pilihan ini akan memakai judul, deskripsi, dan keyword yang telah ditentukan pada Halaman Depan statis Anda."
+
+#: admin/class-aioseop-helper.php:499
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Pilihan ini memungkinkan Anda untuk mengatur penggunaan Kata Kunci Meta di seluruh situs."
+
+#: admin/class-aioseop-helper.php:117
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Gunakan wp_title untuk memperoleh judul yang digunakan oleh tema; ini dinonaktifkan secara default. Jika Anda menggunakan pilihan ini, atur format judul Anda dengan benar, karena tema Anda mungkin juga akan mencoba membuat judul SEOnya sendiri."
+
+#: admin/class-aioseop-helper.php:124
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Sesuai namanya, ini akan menjadi Judul Meta beranda Anda. Ini tidak bergantung pada pilihan lain. Jika tidak diatur, Judul Situs default (yang ditemukan di WordPress bagian Pengaturan, Umum, Judul Situs) yang akan digunakan."
+
+#: admin/class-aioseop-helper.php:125
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Ini akan menjadi Deskripsi meta untuk beranda Anda. Ini tidak bergantung pada pilihan lain. Defaultnya adalah tanpa Deskripsi Meta sama sekali jika ini tidak diatur."
+
+#: admin/class-aioseop-helper.php:500
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Centang ini jika Anda ingin kategori-kategori dalam sebuah pos tertentu Anda digunakan sebagai Kata Kunci Meta untuk pos ini (selain kata-kata kunci yang telah Anda tentukan pada layar Edit Pos)."
+
+#: admin/class-aioseop-helper.php:501
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Centang ini jika Anda ingin tag-tag dalam sebuah pos tertentu Anda digunakan sebagai Kata Kunci Meta untuk pos ini (selain kata-kata kunci yang telah Anda tentukan pada layar Edit Pos)."
+
+#: admin/class-aioseop-helper.php:502
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Centang ini jika Anda ingin kata kunci Anda pada halaman Pos Anda (diatur di WordPress pada Pengaturan, Bacaan, Tampilan Halaman Depan) dan pada halaman arsip Anda dibuat secara dinamis dari kata-kata kunci pos-pos yang tampil pada halaman tersebut. Jika tidak dicentang, ini akan menggunakan kata-kata kunci yang telah diatur pada layar edit halaman untuk halaman pos."
+
+#: admin/class-aioseop-helper.php:126
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "Masukkan daftar kata kunci yang paling penting dari situs Anda (dipisahkan dengan koma) yang akan ditulis sebagai Kata Kunci Meta di beranda Anda. Jangan masukkan semuanya disini."
+
+#: admin/class-aioseop-helper.php:116
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Mencentang pilihan ini akan mengatur URL Kanonis untuk semua konten yang dihalamankan kepada beranda."
+
+#. translators: the Bad Bot Blocker module allows users to block requests from
+#. user agents that are known to misbehave.
+#: modules/aioseop_bad_robots.php:20 modules/aioseop_feature_manager.php:75
+msgid "Bad Bot Blocker"
+msgstr "Pemblokir Bot Jahat"
+
+#: admin/class-aioseop-helper.php:1084
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Blokir permintaan dari agen pengguna yang diketahui tidak menuruti 503."
+
+#: admin/class-aioseop-helper.php:1086
+msgid "Log and show recent requests from blocked bots."
+msgstr "Catat dan tampilkan permintaan terkini dari bot yang diblokir."
+
+#: admin/class-aioseop-helper.php:1087
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Centang ini untuk mengedit daftar agen pengguna yang tidak diizinkan untuk memblokir bot jahat."
+
+#: admin/class-aioseop-helper.php:1088
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Ini adalah daftar agen pengguna yang tidak diizinkan untuk memblokir bot jahat."
+
+#: admin/class-aioseop-helper.php:1089
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Ini adalah daftar perujuk yang tidak diizinkan untuk memblokir bot jahat."
+
+#: admin/class-aioseop-helper.php:1090
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Menampilkan catatan permintaan paling terkini dari bot terblokir. Catatan: ini tidak akan melacak bot yang telah diblokir di level server web/.htaccess."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "Track Blocked Bots"
+msgstr "Lacak Bot Terblokir"
+
+#: modules/aioseop_bad_robots.php:31
+msgid "User Agent Blocklist"
+msgstr "Daftar Blokir Agen Pengguna"
+
+#: modules/aioseop_bad_robots.php:39
+msgid "Referer Blocklist"
+msgstr "Daftar Blokir Referer"
+
+#: modules/aioseop_bad_robots.php:50
+msgid "Log Of Blocked Bots"
+msgstr "Catatan Bot Terblokir"
+
+#: modules/aioseop_bad_robots.php:51
+msgid "No requests yet."
+msgstr "Belum ada permintaan."
+
+#. translators: This is a header for the General Settings menu. %s is a
+#. placeholder and is replaced with the name of the plugin.
+#: aioseop_class.php:239
+msgid "%s Plugin Options"
+msgstr "Pilihan Plugin %s"
+
+#. translators: This is the main menu of the plugin.
+#. translators: This is the name of the main menu.
+#: aioseop_class.php:241 aioseop_class.php:1100 aioseop_class.php:5299
+msgid "General Settings"
+msgstr "Pengaturan Umum"
+
+#: modules/aioseop_bad_robots.php:80
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Bot dengan IP %1$s telah diblokir -- agen pengguna %2$s yang cocok ditemukan dalam daftar blokir."
+
+#: modules/aioseop_bad_robots.php:86
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Bot dengan IP %1$s telah diblokir -- referer %2$s yang cocok ditemukan dalam daftar blokir."
