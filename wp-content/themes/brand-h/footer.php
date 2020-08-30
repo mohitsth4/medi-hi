@@ -8,7 +8,7 @@
 
 ?>
 
-<footer class="text-center mt-20 font-noto-regular">
+<footer class="text-center mt-20 px-5 font-noto-regular">
 	<!-- Footer links (start) -->
 	<!-- <h2 class="px-8 font-bold text-left font-size-24 font-roboto leading-relaxed " style="font-size:22px"> -->
 	<div class="text-2xl mb-5  ">
@@ -18,7 +18,7 @@
 	<!-- Footer links (end) -->
 
 	<!-- Address (start) -->
-	<p class="text-gray-500 " style="font-size:13px">
+	<p class="text-gray-500 px-20" style="font-size:13px">
 		10, Anson Road, #34-10, International Plaza,<br class="lg:hidden"> Singapore 079903
 	</p>
 	<!-- Address (end) -->

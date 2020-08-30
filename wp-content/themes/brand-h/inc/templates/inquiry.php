@@ -1,5 +1,5 @@
 <!-- Section 4 (start) -->
-<section class="items-center pt-10">
+<section class="items-center pt-10 px-5">
 
   <!-- Icon (start) -->
   <div class="mx-auto mb-10 mt-5 lg:h-24 h-24 w-24 lg:w-24"> 
